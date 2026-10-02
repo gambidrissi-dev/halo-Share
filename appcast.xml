@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Halo</title>
+    <link>https://github.com/gambidrissi-dev/halo-Share</link>
+    <description>Mises à jour de Halo</description>
+    <item>
+      <title>Version 3.15.0</title>
+      <description><![CDATA[
+<h3>Accueil : carte « Loop &amp; Schedule » (Taches-Halo.md) entre Conversations (30 %) et Terminaux (45 %)</h3>
+      ]]></description>
+      <pubDate>Thu, 01 Oct 2026 23:22:59 +0000</pubDate>
+      <sparkle:version>75</sparkle:version>
+      <sparkle:shortVersionString>3.15.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v3.15.0/Halo-3.15.0.zip"
+                 sparkle:edSignature="q3u6u52imoJbBNqy7V6ZGn0yZpdYLUOonEVTALkYxq8tJEnHOYHcZ+Dje9p8uC/R7ePLdIaLU8E95J1309ZuBw=="
+                 length="5602975"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
