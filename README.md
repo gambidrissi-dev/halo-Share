@@ -7,4 +7,4 @@ Ton agent IA : conversations par projet, terminaux, tâches planifiées.
 Ce dépôt ne contient pas de code : il distribue Halo. L'app se met à jour toute seule
 par [Sparkle](https://sparkle-project.org) depuis [`appcast.xml`](appcast.xml), et chaque archive est signée (EdDSA).
 
-Toutes les apps, et **Vitrine** pour les installer d'un clic : https://gambidrissi-dev.github.io/Vitrine-Share/
+Toutes les apps, et **Vitrine** pour les installer d'un clic : https://apps-gambi.vercel.app/
