@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 3.16.0</title>
+      <description><![CDATA[
+<h3>Nouvelle clé publique Sparkle : l'ancienne clé privée est perdue</h3>
+      ]]></description>
+      <pubDate>Fri, 02 Oct 2026 23:03:20 +0000</pubDate>
+      <sparkle:version>76</sparkle:version>
+      <sparkle:shortVersionString>3.16.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v3.16.0/Halo-3.16.0.zip"
+                 sparkle:edSignature="cc+Kc0vnm/Iin3iNHJURl36rcX4yza7HDI7YTmEXHhRYgPk6XXUcwSpOhm7uoFfTPvg4O059mq8eaNDJ+MvmBA=="
+                 length="5679338"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 3.15.0</title>
       <description><![CDATA[
 <h3>Accueil : carte « Loop &amp; Schedule » (Taches-Halo.md) entre Conversations (30 %) et Terminaux (45 %)</h3>
