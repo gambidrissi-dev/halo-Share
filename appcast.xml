@@ -5,6 +5,36 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 3.17.0</title>
+      <description><![CDATA[
+<h3>Accueil : barre du bas, mascotte au centre, « Bonjour Gambi »</h3>
+<ul>
+<li><b>Barre du bas</b>, partout dans Halo : Accueil, Chercher, tes espaces de terminaux (pastille bleue s'il attend ta réponse, orange s'il travaille), Nouvel espace, Coffre, Réglages.</li>
+<li><b>La mascotte de PowerMac</b> remplace le cœur, en grand : ses yeux suivent le curseur, elle sautille quand Halo travaille, somnole au repos.</li>
+<li><b>Coffre</b> : sa propre page, depuis la barre du bas.</li>
+<li><b>« À ta réponse »</b> : les terminaux qui attendent, avec leurs choix en boutons.</li>
+</ul>
+<h3>Jev</h3>
+<ul>
+<li><b>Règles d'abord</b> : les cas évidents sont triés sans appeler Jev.</li>
+<li><b>L'espace</b> : Jev choisit aussi où lancer un vrai travail. Au-dessus de 90 % de confiance, il y part directement ; sinon tu choisis, sa suggestion en tête.</li>
+<li><b>Reçus</b> : la confiance de Jev et tes corrections sont notées, pour recalibrer les seuils.</li>
+</ul>
+<h3>Terminaux</h3>
+<ul>
+<li>Au relancement, chaque terminal reprend <b>sa propre</b> conversation Claude Code.</li>
+</ul>
+      ]]></description>
+      <pubDate>Sun, 04 Oct 2026 19:29:06 +0000</pubDate>
+      <sparkle:version>77</sparkle:version>
+      <sparkle:shortVersionString>3.17.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v3.17.0/Halo-3.17.0.zip"
+                 sparkle:edSignature="lA085Cd/NCCm3L2gcv2GJfuPLSyKzkQ2gGIbn1PQ9FPekrAY30vt3GHT8nB0rn0HdPzQH3p3bjJmNoUixKSWAQ=="
+                 length="5712069"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 3.16.0</title>
       <description><![CDATA[
 <h3>Nouvelle clé publique Sparkle : l'ancienne clé privée est perdue</h3>
