@@ -5,6 +5,25 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 3.18.0</title>
+      <description><![CDATA[
+<h3>Réglages de Jev</h3>
+<ul>
+<li>Dans <b>Réglages › Tri des demandes</b> : activer ou couper les règles évidentes avant Jev.</li>
+<li><b>Monter d'un niveau sous</b> : le seuil de confiance sous lequel Halo prend le niveau au-dessus (70 % par défaut).</li>
+<li><b>Lancer seul dans l'espace choisi par Jev</b>, et à partir de quelle confiance (90 % par défaut).</li>
+</ul>
+      ]]></description>
+      <pubDate>Sun, 04 Oct 2026 20:20:30 +0000</pubDate>
+      <sparkle:version>79</sparkle:version>
+      <sparkle:shortVersionString>3.18.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v3.18.0/Halo-3.18.0.zip"
+                 sparkle:edSignature="4nei8Sp2SP0xKYiCeTYAZ9G1EHqNI6hfXF3TYlVag+NmOB2ohoHX0iXVhVHe7SfYXr2IKqTQJh/cAIIgWVhUAQ=="
+                 length="5725523"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 3.17.1</title>
       <description><![CDATA[
 <h3>Correctif terminaux</h3>
