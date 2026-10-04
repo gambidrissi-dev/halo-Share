@@ -5,6 +5,24 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 3.20.0</title>
+      <description><![CDATA[
+<h3>Réglages réorganisés</h3>
+<ul>
+<li>Quatre groupes : <b>Essentiel</b> (clé OpenRouter, Jev et ses seuils), <b>Apparence et voix</b>, <b>Connexions</b> (fournisseurs, téléphone, MCP), <b>Système</b> (démarrage, mémoire, état).</li>
+<li>Un sommaire à gauche pour sauter d'un groupe à l'autre ; plus de volet replié.</li>
+</ul>
+      ]]></description>
+      <pubDate>Sun, 04 Oct 2026 20:57:56 +0000</pubDate>
+      <sparkle:version>81</sparkle:version>
+      <sparkle:shortVersionString>3.20.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v3.20.0/Halo-3.20.0.zip"
+                 sparkle:edSignature="xTPJfFglq1M7jfZwGg8e5pfaFNB2XA6Ip4ty1Fe+0x5IeACSr8OjwaWcl117M2RSrmc2UWsHDQwYaF6svDSrBw=="
+                 length="5766422"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 3.19.0</title>
       <description><![CDATA[
 <h3>Captures d'écran par glisser-déposer</h3>
