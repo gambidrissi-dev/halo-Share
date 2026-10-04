@@ -5,6 +5,24 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 3.24.0</title>
+      <description><![CDATA[
+<h3>Dépenses : les tokens</h3>
+<ul>
+<li>Abonnement Claude : tokens de chaque usage (Terminaux, Discussions, Loops &amp; Schedule) à côté de la valeur au tarif de l'API.</li>
+<li>OpenRouter : tokens de tes discussions (enregistrés à chaque appel désormais), du mois et des terminaux d'après l'activité (clé de gestion).</li>
+</ul>
+      ]]></description>
+      <pubDate>Sun, 04 Oct 2026 23:16:57 +0000</pubDate>
+      <sparkle:version>85</sparkle:version>
+      <sparkle:shortVersionString>3.24.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v3.24.0/Halo-3.24.0.zip"
+                 sparkle:edSignature="94E0SWyBzGhAP/WK24ovaIIzGMx8T1jggzeH2RKwz8LDGtD5IQKfkJqjAmdvNTAhXuVpcHtgsStd34fNNQ7pAg=="
+                 length="5926798"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 3.23.0</title>
       <description><![CDATA[
 <h3>Dépenses : ton abonnement Claude</h3>
