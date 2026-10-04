@@ -5,6 +5,24 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 3.23.0</title>
+      <description><![CDATA[
+<h3>Dépenses : ton abonnement Claude</h3>
+<ul>
+<li>Le <b>quota</b> de la session (5 h) et de la semaine, avec leur remise à zéro, lu par Claude Code.</li>
+<li>La <b>répartition de la semaine</b> : Terminaux, Discussions (le travail confié par Halo) et Loops &amp; Schedule, en part et en valeur au tarif de l'API.</li>
+</ul>
+      ]]></description>
+      <pubDate>Sun, 04 Oct 2026 23:01:43 +0000</pubDate>
+      <sparkle:version>84</sparkle:version>
+      <sparkle:shortVersionString>3.23.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v3.23.0/Halo-3.23.0.zip"
+                 sparkle:edSignature="7TgyBbidx9u8YN2q8rSZRLB5uMIwnp2k+uxAIZxicU1o/5DiQax/OtTF7Sp5UEdIxUyXQ2aY/SgIOmtHOBFpDA=="
+                 length="5919621"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 3.22.0</title>
       <description><![CDATA[
 <h3>Dépenses, par usage</h3>
