@@ -5,6 +5,26 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 3.21.0</title>
+      <description><![CDATA[
+<h3>Page Dépenses</h3>
+<ul>
+<li>Le <b>vrai total d'OpenRouter</b> pour ta clé : aujourd'hui, cette semaine, ce mois, depuis toujours ; la part de Halo et ce qui vient d'ailleurs (terminaux, autres apps).</li>
+<li>Le détail du mois dans Halo : par jour, par modèle, par conversation.</li>
+<li>Avec une <b>clé de gestion</b> (Réglages › Essentiel) : crédit restant et 30 derniers jours par modèle, tokens compris.</li>
+<li>Clic sur « IA ce mois » ou l'icône Dépenses de la barre du bas.</li>
+</ul>
+      ]]></description>
+      <pubDate>Sun, 04 Oct 2026 22:17:35 +0000</pubDate>
+      <sparkle:version>82</sparkle:version>
+      <sparkle:shortVersionString>3.21.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v3.21.0/Halo-3.21.0.zip"
+                 sparkle:edSignature="KGvo+s5c9v811+V1tUBHGlZje9V4/sytIJwTs8Yh4LZPXMHtA0qF9Zbr8h+203I1KgRyniBqtyjRojDCdY1BDg=="
+                 length="5869340"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 3.20.0</title>
       <description><![CDATA[
 <h3>Réglages réorganisés</h3>
