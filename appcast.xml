@@ -5,6 +5,24 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 5.6.0</title>
+      <description><![CDATA[
+<h3>Glisser-déposer des terminaux</h3>
+<ul>
+<li>Tire un terminal par son en-tête et lâche-le <b>sur un autre</b> : il prend sa place.</li>
+<li>Lâche-le <b>sur une carte d'espace</b> : il rejoint cet espace.</li>
+</ul>
+      ]]></description>
+      <pubDate>Mon, 05 Oct 2026 20:57:07 GMT</pubDate>
+      <sparkle:version>94</sparkle:version>
+      <sparkle:shortVersionString>5.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v5.6.0/Halo-5.6.0.zip"
+                 sparkle:edSignature="EY8ZwGmgf9rQqYPI80S8+URvRDGQKS4FI5bJbX//sNJ3Z2xwZYXm6D4uDkGwJo926c3GtomLBwKfuVsAsvNlCg=="
+                 length="6353456"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 5.5.0</title>
       <description><![CDATA[
 <h3>Les autres agents</h3>
