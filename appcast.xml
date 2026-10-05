@@ -5,6 +5,23 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 5.8.1</title>
+      <description><![CDATA[
+<ul>
+<li>L'agent de Halo dans un terminal garde ses outils de code (il ne devient plus une discussion) et retrouve le même projet pour le même dossier.</li>
+<li>Le terminal se relie bien à l'app après une mise à jour ; s'il ne peut pas, il le dit.</li>
+</ul>
+      ]]></description>
+      <pubDate>Mon, 05 Oct 2026 23:07:00 GMT</pubDate>
+      <sparkle:version>98</sparkle:version>
+      <sparkle:shortVersionString>5.8.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v5.8.1/Halo-5.8.1.zip"
+                 sparkle:edSignature="x56FMCwBoFr634RHB8h4UXGMYfbyRmMYmU62HoeR8ZxKKIwF9TmpPq6bx7haJAQQnqSWVaTODxgNNPFaj8DxBw=="
+                 length="6463659"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 5.8.0</title>
       <description><![CDATA[
 <h3>L'agent de Halo dans un terminal</h3>
