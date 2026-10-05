@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 3.25.1</title>
+      <description><![CDATA[
+<h3>Avec PowerMac</h3>
+<ul><li>Halo donne à PowerMac la dépense exacte de la clé des terminaux, et partage avec lui l'historique des conversations Claude Code.</li></ul>
+      ]]></description>
+      <pubDate>Mon, 05 Oct 2026 06:38:21 +0000</pubDate>
+      <sparkle:version>87</sparkle:version>
+      <sparkle:shortVersionString>3.25.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v3.25.1/Halo-3.25.1.zip"
+                 sparkle:edSignature="IuQMlHz4vZuGmDRFT94IwCEY7WawwV9owNu64u3zyaXMUnm+bcvIDXbrx3V2Fm9Zcvp7tWq/86Rxs3KIaY1IAg=="
+                 length="5994395"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 3.25.0</title>
       <description><![CDATA[
 <h3>Quota, alertes et Jev plus malin</h3>
