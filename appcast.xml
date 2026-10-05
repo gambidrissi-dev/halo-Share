@@ -5,6 +5,27 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 5.0.0</title>
+      <description><![CDATA[
+<h3>Halo 5 : la mémoire et l'orchestration</h3>
+<ul>
+<li><b>Une mémoire reliée à Claude Code</b> : Halo lit tes sessions de terminal et ce que Claude Code retient ; Claude Code reçoit ce que Halo sait de toi et du projet.</li>
+<li><b>Recherche par le sens</b> dans tout ce que tu as fait : conversations, terminaux, coffre, notes. Une phrase qui dit la même chose autrement suffit.</li>
+<li><b>Page Mémoire</b> dans la barre du bas : chercher, tes notes par thème, ce que Claude Code a retenu.</li>
+<li><b>Mémoire ciblée</b> : seules les notes utiles entrent dans la conversation ; les longues conversations sont résumées au lieu d'être tronquées.</li>
+<li><b>Orchestration</b> : plusieurs Claude Code en parallèle, des étapes enchaînées, des sous-tâches sur ton abonnement ; à la fin d'un travail, les fichiers modifiés et ce qui mérite d'être retenu.</li>
+</ul>
+      ]]></description>
+      <pubDate>Mon, 05 Oct 2026 19:17:59 +0000</pubDate>
+      <sparkle:version>88</sparkle:version>
+      <sparkle:shortVersionString>5.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v5.0.0/Halo-5.0.0.zip"
+                 sparkle:edSignature="yO034Zqb351jHzdQQ/okG+mAfoKLINVmPXjOQ+n3TGDQLpDiemJ639hPTVrAuM/foQM6KiDyPB8wlP5+dIv+AA=="
+                 length="6146249"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 3.25.1</title>
       <description><![CDATA[
 <h3>Avec PowerMac</h3>
