@@ -5,6 +5,26 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 5.2.0</title>
+      <description><![CDATA[
+<h3>Claude Code parle à Halo</h3>
+<ul>
+<li>Dans les terminaux de Halo, Claude Code annonce lui-même ce qu'il fait : il travaille, il attend (avec la vraie question), il a fini, ses sous-agents et ses tâches. Plus de faux menu « Réponds : ».</li>
+<li>La reprise des conversations est exacte : l'identifiant vient de Claude Code.</li>
+<li><code>halo notifier --titre "Build fini"</code> : n'importe quel script d'un terminal te notifie.</li>
+<li>Ta configuration de Claude Code n'est pas modifiée ; tes fichiers zsh sont chargés comme d'habitude.</li>
+</ul>
+      ]]></description>
+      <pubDate>Mon, 05 Oct 2026 20:17:04 +0000</pubDate>
+      <sparkle:version>90</sparkle:version>
+      <sparkle:shortVersionString>5.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v5.2.0/Halo-5.2.0.zip"
+                 sparkle:edSignature="KhaGIqe+Dl6FJc0BbzHE4Rsoqd//VeLisKabY6QYkllI0U96avF7x1MMue3ZOzUMvAVgbRz47CE7t8F2VELiAw=="
+                 length="6176778"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 5.1.0</title>
       <description><![CDATA[
 <h3>Fiche sur toi</h3>
