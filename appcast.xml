@@ -5,6 +5,24 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 5.1.0</title>
+      <description><![CDATA[
+<h3>Fiche sur toi</h3>
+<ul>
+<li>Un fichier que tu écris sur toi (par défaut <code>~/Documents/MOI.md</code>) : Halo le relit à chaque conversation et le transmet à Claude Code. Tes modifications comptent tout de suite.</li>
+<li>À choisir, ouvrir ou retirer dans la page Mémoire.</li>
+</ul>
+      ]]></description>
+      <pubDate>Mon, 05 Oct 2026 19:30:45 +0000</pubDate>
+      <sparkle:version>89</sparkle:version>
+      <sparkle:shortVersionString>5.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v5.1.0/Halo-5.1.0.zip"
+                 sparkle:edSignature="blsFTcStU5GYxP/dto34gN17yaWHiLnly/YVg9FU6CJ9ueGDzjdjWl0RaTddAiRotEDHnm13vBu6SjnKN0PiCA=="
+                 length="6161044"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 5.0.0</title>
       <description><![CDATA[
 <h3>Halo 5 : la mémoire et l'orchestration</h3>
