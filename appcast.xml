@@ -5,6 +5,25 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 5.7.0</title>
+      <description><![CDATA[
+<h3>Plugins</h3>
+<ul>
+<li><b>Des plugins pour l'agent de Halo</b>, au format de ceux de Claude Code, rangés dans ta Skillothèque : GitHub, Figma, Notion, Context7, Fetch, Playwright.</li>
+<li><b>Validation à l'avance</b> : pour chaque outil, autorisé, demander ou interdit (Réglages › Connexions › Plugins). Un outil interdit n'est même pas proposé au modèle.</li>
+<li>GitHub se branche sur ta connexion <code>gh</code> : aucun jeton à coller. Les autres jetons vont dans le Trousseau de Halo, jamais dans le dossier du plugin.</li>
+</ul>
+      ]]></description>
+      <pubDate>Mon, 05 Oct 2026 22:20:15 GMT</pubDate>
+      <sparkle:version>95</sparkle:version>
+      <sparkle:shortVersionString>5.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v5.7.0/Halo-5.7.0.zip"
+                 sparkle:edSignature="a8REjLNgjTpdLTVDh0Bvnt0VJa0eBCvTIEEV22EeHjQS4sWUrG1E+kGtA2edEpu0ILeRhaJMqxMQ1TXAArNzAA=="
+                 length="6427911"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 5.6.0</title>
       <description><![CDATA[
 <h3>Glisser-déposer des terminaux</h3>
