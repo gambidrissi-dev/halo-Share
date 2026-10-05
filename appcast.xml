@@ -5,6 +5,26 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 5.4.0</title>
+      <description><![CDATA[
+<h3>Outils de développeur</h3>
+<ul>
+<li><b>Serveurs locaux</b> : chaque port ouvert par un terminal s'affiche dans son en-tête (« :3000 ») — ouvrir, copier l'adresse, arrêter.</li>
+<li><b>Processeur et mémoire</b> de chaque terminal, avec la liste de ses processus et « arrêter ».</li>
+<li><b>Ouvrir avec</b> : le dossier du terminal dans le Finder ou un éditeur installé.</li>
+<li><b>Pull requests</b> : branche et état de la PR (vérifications) sur chaque espace.</li>
+</ul>
+      ]]></description>
+      <pubDate>Mon, 05 Oct 2026 20:31:51 GMT</pubDate>
+      <sparkle:version>92</sparkle:version>
+      <sparkle:shortVersionString>5.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v5.4.0/Halo-5.4.0.zip"
+                 sparkle:edSignature="NiyZtR2x+w40NO+5B7tY6cae9LW9sPCJkH7Nz+Pq8fudTsKmFLU6dfJhpVKaZf/WvLi1WadjCOI37orfwmmrCg=="
+                 length="6326031"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 5.3.0</title>
       <description><![CDATA[
 <h3>L'espace de travail</h3>
