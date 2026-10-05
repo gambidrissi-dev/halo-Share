@@ -5,6 +5,25 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 5.5.0</title>
+      <description><![CDATA[
+<h3>Les autres agents</h3>
+<ul>
+<li><b>Codex, Gemini et OpenCode</b> disent à Halo ce qu'ils font, comme Claude Code : travaille, attend ta réponse (avec la question), a fini — et les notifications qui vont avec.</li>
+<li><b>Reprise des conversations</b> : au relancement de Halo, avec ⌘⇧T et depuis les signets, chaque volet reprend sa conversation (codex resume, gemini --resume, opencode --session).</li>
+<li>Tes réglages de ces agents ne sont pas modifiés.</li>
+</ul>
+      ]]></description>
+      <pubDate>Mon, 05 Oct 2026 20:43:20 GMT</pubDate>
+      <sparkle:version>93</sparkle:version>
+      <sparkle:shortVersionString>5.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v5.5.0/Halo-5.5.0.zip"
+                 sparkle:edSignature="Oumrf6kdi7iRCZWIZcSHjsQbOCi6GnZ+VmJ5DVSLbVrmf34ue0xvv2IGaD592A5z0D9AGontCGry1b8LfbQdBA=="
+                 length="6336800"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 5.4.0</title>
       <description><![CDATA[
 <h3>Outils de développeur</h3>
