@@ -5,6 +5,28 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 5.3.0</title>
+      <description><![CDATA[
+<h3>L'espace de travail</h3>
+<ul>
+<li><b>Réorganiser les volets</b> : flèches dans leur en-tête, ⌘⌥← / ⌘⌥→, ⌘[ / ⌘] pour passer de l'un à l'autre, déplacer vers un autre espace, plein écran ⌘⇧↩.</li>
+<li><b>Rouvrir un volet fermé</b> : ⌘⇧T, conversation Claude Code reprise.</li>
+<li><b>Signets d'espace</b> : clic droit sur un espace, à rouvrir tel quel ou à neuf.</li>
+<li><b>Chercher</b> dans le défilement de tous les terminaux.</li>
+<li><b>Boîte des notifications</b> (la cloche) ; un clic ramène au terminal.</li>
+<li><b>⌘K</b> propose aussi tes terminaux et tes signets.</li>
+</ul>
+      ]]></description>
+      <pubDate>Mon, 05 Oct 2026 20:24:44 +0000</pubDate>
+      <sparkle:version>91</sparkle:version>
+      <sparkle:shortVersionString>5.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v5.3.0/Halo-5.3.0.zip"
+                 sparkle:edSignature="4fEtW6nzdDjJ+R/xvArynD1TCt29adeX7Ucnjt3fQuvBvoeFtRqYc1vRWWD3ChEPf17LeONFGLNEjNgDG3NbAA=="
+                 length="6274834"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 5.2.0</title>
       <description><![CDATA[
 <h3>Claude Code parle à Halo</h3>
