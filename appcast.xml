@@ -5,6 +5,25 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 5.8.0</title>
+      <description><![CDATA[
+<h3>L'agent de Halo dans un terminal</h3>
+<ul>
+<li><b>Nouveau terminal › Agent Halo</b> : le même agent que tes discussions, sur le modèle de ton choix (OpenRouter compris), avec tes plugins, tes skills et ta mémoire. Il travaille dans le projet du dossier et se voit aussi dans la fenêtre.</li>
+<li><b>Jev te demande qui s'en charge</b> : pour un vrai travail, Claude Code (ton abonnement) ou l'agent de Halo, et sur quel modèle. Un modèle nommé dans ta demande (« utilise glm 5.3 flash ») est proposé d'office.</li>
+<li>Réglable dans Réglages › Tri des demandes : « Me demander qui s'en charge ».</li>
+</ul>
+      ]]></description>
+      <pubDate>Mon, 05 Oct 2026 22:58:50 GMT</pubDate>
+      <sparkle:version>97</sparkle:version>
+      <sparkle:shortVersionString>5.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v5.8.0/Halo-5.8.0.zip"
+                 sparkle:edSignature="BtHG6SmopeMHHLhOailpjjbHwQ8vYsSixaB8bC10lCC8OoTe0kw3o3whFI+7TIqxAyZqg9/QHXrToi/BksxoCg=="
+                 length="6462300"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 5.7.1</title>
       <description><![CDATA[
 <ul>
