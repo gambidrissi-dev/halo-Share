@@ -5,6 +5,27 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 5.9.0</title>
+      <description><![CDATA[
+<h3>halo dans le terminal, comme claude</h3>
+<ul>
+<li><b>halo</b> dans n'importe quel dossier : l'agent de Halo sur ce dossier, avec tes plugins, tes skills et ta mémoire. <code>halo "consigne"</code>, <code>halo -c</code> pour reprendre, <code>halo -p</code> sans interface, <code>--model</code>.</li>
+<li>Il lit <b>HALO.md</b> (ou CLAUDE.md, AGENTS.md) ; <code>/init</code> l'écrit. <code>/model</code>, <code>/mode</code>, <code>/clear</code>, <code>/compact</code>, <code>/cost</code>, <code>/mcp</code>, <code>/skills</code>.</li>
+<li>Saisie sur plusieurs lignes (⌥↩), collage, <b>@fichier</b>, menu d'autorisation aux flèches, <b>⇧⇥</b> : supervisé, auto, plan.</li>
+<li>Les outils et les diffs comme dans Claude Code (Ctrl-O déplie), la liste des tâches, la ligne d'état (mode, modèle, coût).</li>
+<li>Le volet de Halo sait ce qu'il fait : travaille, attend, a fini — notifications et reprise comprises.</li>
+</ul>
+      ]]></description>
+      <pubDate>Tue, 06 Oct 2026 18:40:27 GMT</pubDate>
+      <sparkle:version>99</sparkle:version>
+      <sparkle:shortVersionString>5.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v5.9.0/Halo-5.9.0.zip"
+                 sparkle:edSignature="yqGe+FM+2pC9xUK4eB870mzx8yWW9WQLNZh6xH0dwT7riMESy/uadBW5MElcJYe9B7l2gYdDIeEkiZ6O7k+dAA=="
+                 length="6514656"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 5.8.1</title>
       <description><![CDATA[
 <ul>
