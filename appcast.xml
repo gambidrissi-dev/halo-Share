@@ -5,6 +5,34 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 5.10.4</title>
+      <description><![CDATA[
+<h3>Plus simple</h3>
+<ul>
+<li><b>Accueil allégé</b> : la mascotte et la saisie ; Conversations, Programmé et Post-it passent dans la barre du bas.</li>
+<li><b>Nouveau travail</b> (le +) : Claude Code, Agent Halo ou Terminal, ce qu'il doit faire, le dossier — puis Lancer.</li>
+<li><b>Plugins à activer d'un clic</b> (GitHub, Figma, Notion, Blender…), installation et jeton guidés.</li>
+<li>Épingler ou supprimer une conversation ; épingler ou fermer un espace.</li>
+</ul>
+<h3>Navigateur intégré</h3>
+<ul><li>Un vrai navigateur dans Halo (le globe), que l'agent pilote sous tes yeux : ouvrir, lire, cliquer, remplir, capturer.</li></ul>
+<h3>Le terminal</h3>
+<ul>
+<li>Copie propre (⌘C), scripts du projet, adresses affichées cliquables, confirmation avant de fermer un terminal occupé.</li>
+<li>Thèmes, police et taille ; aperçu d'un espace au survol ; son des notifications ; signets en fichier ; SSH.</li>
+<li><b>Mode auto</b> pour les agents lancés par Halo (Claude Code, Codex, Agent Halo).</li>
+</ul>
+      ]]></description>
+      <pubDate>Wed, 07 Oct 2026 17:53:05 GMT</pubDate>
+      <sparkle:version>106</sparkle:version>
+      <sparkle:shortVersionString>5.10.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v5.10.4/Halo-5.10.4.zip"
+                 sparkle:edSignature="9ExE9skEOyZoEilI2ZFJEno8dZDOSMCWl7aQ607EeTNojEr5ePahtMG3U3pVUy2AF+Ugkj0miw2CfP/Ig+UoDQ=="
+                 length="6743508"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 5.9.2</title>
       <description><![CDATA[
 <ul>
