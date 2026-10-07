@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 5.12.2</title>
+      <description><![CDATA[
+<h3>Réglages : la clé des terminaux disparaît — les terminaux utilisent ta clé OpenRouter principale, et Dépenses estime leur part comme le reste de cette clé.</h3>
+      ]]></description>
+      <pubDate>Wed, 07 Oct 2026 21:09:29 +0000</pubDate>
+      <sparkle:version>111</sparkle:version>
+      <sparkle:shortVersionString>5.12.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v5.12.2/Halo-5.12.2.zip"
+                 sparkle:edSignature="c2cJ87u3DU9McWiCDbuFaTp3dY4I5w5RRJ7TwOnoZLW7yh2fI+IEzR0A2+mOCJl8l6fajIjkuopLV9hNGcoxBA=="
+                 length="12350757"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 5.12.1</title>
       <description><![CDATA[
 <h3>Parcourir les modèles MLX : le catalogue mlx-community de Hugging Face dans Réglages › Modèles sur ce Mac, avec recherche, tri (plus récents, plus téléchargés), poids, mémoire nécessaire, et un verdict par modèle — vert s'il tourne sur ce Mac, orange s'il est trop lourd, gris si MLX ne connaît pas son architecture ; téléchargement d'un clic. Le premier chargement d'un modèle local n'expire plus au bout d'une minute.</h3>
