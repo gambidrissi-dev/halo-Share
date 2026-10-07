@@ -5,6 +5,26 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 5.10.5</title>
+      <description><![CDATA[
+<h3>Le tri IA du coffre</h3>
+<ul>
+<li><b>Coffre › Trier avec l'IA</b> : pour chaque note de l'inbox, Halo propose un dossier, un nom, des étiquettes, des liens vers tes notes et un résumé — à partir des notes proches par le sens et des règles de ton README_INBOX.</li>
+<li>Rien ne bouge avant « Ranger » ; « Ranger les sûres » ne prend que ce dont Halo est sûr ; le dernier rangement s'annule.</li>
+<li>Les liens [[…]] sont protégés : un nom parlant ne change pas, un renommage met à jour les liens du coffre.</li>
+<li>Halo trouve ton coffre Obsidian là où il est (Documents, Bureau, ou le dernier ouvert dans Obsidian).</li>
+</ul>
+      ]]></description>
+      <pubDate>Wed, 07 Oct 2026 19:05:41 GMT</pubDate>
+      <sparkle:version>107</sparkle:version>
+      <sparkle:shortVersionString>5.10.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v5.10.5/Halo-5.10.5.zip"
+                 sparkle:edSignature="xJA9QG1GJ8OyPn7z//XOi2qGWxyOHMtNw+9PD+rKcPZqAN7w/slTZ8yguSTAZOqoRLpxViFZjR+Oyx0dgGSnBw=="
+                 length="6837647"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 5.10.4</title>
       <description><![CDATA[
 <h3>Plus simple</h3>
