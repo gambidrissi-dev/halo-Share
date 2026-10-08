@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 5.16.0</title>
+      <description><![CDATA[
+<h3>Le panneau 3D devient la fenêtre du Blender sans interface : pendant le travail en fond il le dit, puis montre la scène telle que le script l'a laissée — un aperçu Workbench rapide, cadré par une caméra provisoire s'il n'y en a pas (jamais enregistrée), ou le vrai rendu quand il est demandé ; « Sans interface · fichier · il y a… ». Claude Code y a droit aussi : la skill ajoute le script d'aperçu de Halo à sa commande, et une commande Blender -b ouvre le panneau.</h3>
+      ]]></description>
+      <pubDate>Thu, 08 Oct 2026 21:44:04 +0000</pubDate>
+      <sparkle:version>116</sparkle:version>
+      <sparkle:shortVersionString>5.16.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v5.16.0/Halo-5.16.0.zip"
+                 sparkle:edSignature="j49e/M1XYXq8yL7jGxMyKhLXoX+JYZ4iCP+O5+HjzeIDUrr195qU9NloR6rM2ve+ThPIXcFLur1Ha+kX1Sb+DQ=="
+                 length="12461169"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 5.15.0</title>
       <description><![CDATA[
 <h3>Blender sans interface : l'outil blender_script lance Blender en fond, sans fenêtre, sur ton .blend — un script Python, un rendu montré dans le panneau à côté de la conversation, une nouvelle version du fichier (maison_v02.blend), jamais l'original écrasé. Pour les rendus longs et les modifications en lot ; la skill donne la commande équivalente à Claude Code. Halo --blender-script-check.</h3>
