@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 5.13.0</title>
+      <description><![CDATA[
+<h3>Second cerveau : PDF et images. Ils apparaissent dans l'arbre du coffre et s'ouvrent dans le lecteur (zoom, défilement) ; l'agent les lit avec lire_fichier, et la recherche par le sens les retrouve — texte des PDF par PDFKit, texte des images par la reconnaissance de texte du Mac, sur la machine et sans coût. Réglages › Second cerveau : le dossier se choisit d'un clic.</h3>
+      ]]></description>
+      <pubDate>Thu, 08 Oct 2026 19:03:52 +0000</pubDate>
+      <sparkle:version>113</sparkle:version>
+      <sparkle:shortVersionString>5.13.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v5.13.0/Halo-5.13.0.zip"
+                 sparkle:edSignature="UapJl+7lvFN1PYJz/i1E/zvUAPoq+/nGA8LcnCJLaf6iQ4UwXL0SDciCntVmh0g5xZ19pp2iQQRWYbEYhGD5DA=="
+                 length="12396753"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 5.12.3</title>
       <description><![CDATA[
 <h3>Blender s'ouvre tout seul : avec le plugin Blender, l'agent ouvre Blender lui-même — sur ton fichier .blend s'il y en a un — l'extension MCP connectée sans « Connect » à cliquer (outil blender_ouvrir ; la commande équivalente pour Claude Code est dans la skill). Blender déjà ouvert passe au fichier demandé, après une copie de secours de la scène quittée. La skill d'un plugin déjà activé suit désormais celle du catalogue. Halo --blender-check.</h3>
