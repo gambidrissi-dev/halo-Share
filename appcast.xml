@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 5.14.0</title>
+      <description><![CDATA[
+<h3>Le panneau de ce que la tâche produit, à côté de la conversation et des terminaux : on reste dans Halo de A à Z. Un site s'affiche rendu, un texte se rédige sous tes yeux (titres et gras mis en forme), un PDF ou une image s'ouvre, une scène Blender se construit en direct. Halo le déduit des fichiers écrits — par son agent comme par Claude Code, via ses hooks — et redessine à chaque écriture ; une croix le ferme jusqu'au prochain résultat, une flèche l'ouvre à part.</h3>
+      ]]></description>
+      <pubDate>Thu, 08 Oct 2026 19:51:31 +0000</pubDate>
+      <sparkle:version>114</sparkle:version>
+      <sparkle:shortVersionString>5.14.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v5.14.0/Halo-5.14.0.zip"
+                 sparkle:edSignature="IpMOYdJzCUMsKIQSDpM1IcoJDY3raV0KzSYaCefKgA5T46u3YtsFM9FpDocyzpaNhemz4RSXGfbf57EJGXQdDw=="
+                 length="12438742"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 5.13.0</title>
       <description><![CDATA[
 <h3>Second cerveau : PDF et images. Ils apparaissent dans l'arbre du coffre et s'ouvrent dans le lecteur (zoom, défilement) ; l'agent les lit avec lire_fichier, et la recherche par le sens les retrouve — texte des PDF par PDFKit, texte des images par la reconnaissance de texte du Mac, sur la machine et sans coût. Réglages › Second cerveau : le dossier se choisit d'un clic.</h3>
