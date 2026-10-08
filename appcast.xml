@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 5.15.0</title>
+      <description><![CDATA[
+<h3>Blender sans interface : l'outil blender_script lance Blender en fond, sans fenêtre, sur ton .blend — un script Python, un rendu montré dans le panneau à côté de la conversation, une nouvelle version du fichier (maison_v02.blend), jamais l'original écrasé. Pour les rendus longs et les modifications en lot ; la skill donne la commande équivalente à Claude Code. Halo --blender-script-check.</h3>
+      ]]></description>
+      <pubDate>Thu, 08 Oct 2026 20:39:35 +0000</pubDate>
+      <sparkle:version>115</sparkle:version>
+      <sparkle:shortVersionString>5.15.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v5.15.0/Halo-5.15.0.zip"
+                 sparkle:edSignature="woLCE94O2dVS0zFWlId5ZpDZcSkn68IvM+5aaCqNXGPpxjOnhkGZuvSo6XCtMf4gRuv4tYf8JtU12j6DDLU6BQ=="
+                 length="12449879"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 5.14.0</title>
       <description><![CDATA[
 <h3>Le panneau de ce que la tâche produit, à côté de la conversation et des terminaux : on reste dans Halo de A à Z. Un site s'affiche rendu, un texte se rédige sous tes yeux (titres et gras mis en forme), un PDF ou une image s'ouvre, une scène Blender se construit en direct. Halo le déduit des fichiers écrits — par son agent comme par Claude Code, via ses hooks — et redessine à chaque écriture ; une croix le ferme jusqu'au prochain résultat, une flèche l'ouvre à part.</h3>
