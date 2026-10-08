@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 5.16.1</title>
+      <description><![CDATA[
+<h3>Blender ne fait plus tourner l'agent en rond : fermé, Halo l'ouvre lui-même avant tout outil Blender (et montre la Vue 3D), au lieu que le modèle conclue que « le plugin n'est pas joignable » et parte en détours. La skill Blender fait créer un objet entier d'un seul script (blender_script, une ou deux passes, aperçu dans le panneau) et réserve les petits gestes aux retouches — plus vingt allers-retours pour un objet.</h3>
+      ]]></description>
+      <pubDate>Thu, 08 Oct 2026 21:52:03 +0000</pubDate>
+      <sparkle:version>117</sparkle:version>
+      <sparkle:shortVersionString>5.16.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v5.16.1/Halo-5.16.1.zip"
+                 sparkle:edSignature="N3+H+V7cy2oAF4poVjrS+s/QfjPONsW7dCPoVQ+21H4bIujXhVP7VDvxF+xAmx7dGDLbWq9ynbrh3hTkx60yAA=="
+                 length="12461712"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 5.16.0</title>
       <description><![CDATA[
 <h3>Le panneau 3D devient la fenêtre du Blender sans interface : pendant le travail en fond il le dit, puis montre la scène telle que le script l'a laissée — un aperçu Workbench rapide, cadré par une caméra provisoire s'il n'y en a pas (jamais enregistrée), ou le vrai rendu quand il est demandé ; « Sans interface · fichier · il y a… ». Claude Code y a droit aussi : la skill ajoute le script d'aperçu de Halo à sa commande, et une commande Blender -b ouvre le panneau.</h3>
