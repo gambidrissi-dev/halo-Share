@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 5.18.0</title>
+      <description><![CDATA[
+<h3>Santé : ce que coûte chaque demande, mesuré pendant qu'elle se fait — durée, allers-retours avec le modèle, tokens par appel, outils et outils en échec, coût, la voie choisie. Une page (le pouls, dans la barre) résume la semaine et signale ce qui mérite un regard : plus de 10 allers-retours, un appel de plus de 60 000 tokens, deux outils en échec. « Ça a raté ? » sous la dernière réponse, ou /raté suivi d'un mot, marque la demande pour la revue de la semaine.</h3>
+      ]]></description>
+      <pubDate>Thu, 08 Oct 2026 23:12:57 +0000</pubDate>
+      <sparkle:version>119</sparkle:version>
+      <sparkle:shortVersionString>5.18.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v5.18.0/Halo-5.18.0.zip"
+                 sparkle:edSignature="qk/w5t/e1VrI2ynUFaLK7xHpz3y+sR9tlyK9hJwEc6ZCvqW8cv8voD+UXnfG2Q2k2MvpLFn8qxxlOyNzyoEvAg=="
+                 length="12503154"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 5.17.0</title>
       <description><![CDATA[
 <h3>Plugins à la demande : leurs outils ne partent plus à chaque message — ils pesaient ~24 000 tokens (GitHub seul : 14 000), même pour un « merci ». L'agent voit une ligne par plugin et charge celui qu'il lui faut (activer_plugin) ; /github, /blender… dans ta demande le chargent d'office ; un plugin déjà servi reste chargé, redémarrage compris. Dans la fenêtre comme avec halo dans les terminaux.</h3>
