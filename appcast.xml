@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 5.19.0</title>
+      <description><![CDATA[
+<h3>Des conversations plus légères. /nouveau (suivi ou non d'une demande) repart à neuf, dans la fenêtre comme avec halo — l'ancienne reste dans la mémoire ; Halo le propose une fois quand une grosse conversation est reprise après une heure ; le résumé automatique démarre à 100 000 caractères au lieu de 150 000. Les résultats d'outils des demandes précédentes partent raccourcis (un navigateur_lire faisait 6 500 caractères, renvoyés à chaque message). /nouveau et /raté apparaissent avec les skills quand on tape « / ». Et la boucle de l'agent entière (--agent-check) passe désormais à chaque construction : ce qui la casse ne part pas en version.</h3>
+      ]]></description>
+      <pubDate>Thu, 08 Oct 2026 23:37:30 +0000</pubDate>
+      <sparkle:version>120</sparkle:version>
+      <sparkle:shortVersionString>5.19.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v5.19.0/Halo-5.19.0.zip"
+                 sparkle:edSignature="ERAZtjjuIlsKNxOUodAAp8n2fRrDYs6lDgjIo82YJlhQfmraSQi/b+6nFr3xjpgZNv42ww0zkVC0rGn5dPhrBQ=="
+                 length="12509233"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 5.18.0</title>
       <description><![CDATA[
 <h3>Santé : ce que coûte chaque demande, mesuré pendant qu'elle se fait — durée, allers-retours avec le modèle, tokens par appel, outils et outils en échec, coût, la voie choisie. Une page (le pouls, dans la barre) résume la semaine et signale ce qui mérite un regard : plus de 10 allers-retours, un appel de plus de 60 000 tokens, deux outils en échec. « Ça a raté ? » sous la dernière réponse, ou /raté suivi d'un mot, marque la demande pour la revue de la semaine.</h3>
