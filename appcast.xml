@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 5.20.0</title>
+      <description><![CDATA[
+<h3>Le cache des fournisseurs remarche. Le même contenu partait en textes JSON différents à chaque appel — un dictionnaire Swift ne garde pas l'ordre de ses clés —, et sur une tâche de 20 appels à 130 000 tokens, seuls les 4 000 de la consigne étaient resservis (3 %). Les clés partent triées : tout le début inchangé d'une conversation peut être resservi, moins cher et plus vite. Jev a un disjoncteur : deux échecs de suite de son API alpha, et il n'est plus appelé pendant 30 min — chaque demande y perdait 8 s. La construction avertit si les deux QuotaClaude.swift (Halo, PowerMac) divergent.</h3>
+      ]]></description>
+      <pubDate>Fri, 09 Oct 2026 18:48:46 +0000</pubDate>
+      <sparkle:version>121</sparkle:version>
+      <sparkle:shortVersionString>5.20.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v5.20.0/Halo-5.20.0.zip"
+                 sparkle:edSignature="C18j00nTWfAR0N9AKnvacRLEbbshk86SR3tVAMaTuOzDPXWkGv/j8Gf9ZyDjpaqNrAIZ3dWTgUVzQpBCw+tPCQ=="
+                 length="12511657"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 5.19.0</title>
       <description><![CDATA[
 <h3>Des conversations plus légères. /nouveau (suivi ou non d'une demande) repart à neuf, dans la fenêtre comme avec halo — l'ancienne reste dans la mémoire ; Halo le propose une fois quand une grosse conversation est reprise après une heure ; le résumé automatique démarre à 100 000 caractères au lieu de 150 000. Les résultats d'outils des demandes précédentes partent raccourcis (un navigateur_lire faisait 6 500 caractères, renvoyés à chaque message). /nouveau et /raté apparaissent avec les skills quand on tape « / ». Et la boucle de l'agent entière (--agent-check) passe désormais à chaque construction : ce qui la casse ne part pas en version.</h3>
