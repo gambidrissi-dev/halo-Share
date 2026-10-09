@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 5.21.0</title>
+      <description><![CDATA[
+<h3>Agent.swift découpé, sans changer le comportement : 3 650 → 1 630 lignes. Les outils (déclaration, exécution) dans AgentOutils.swift, ce qui se décide sans état (consigne, règles, contrôles) dans AgentRegles.swift, le contrôle de bout en bout dans AgentCheck.swift, le périmètre fichiers dans Atelier.swift. --self-check, --mcp-check et --agent-check passent à l'identique.</h3>
+      ]]></description>
+      <pubDate>Fri, 09 Oct 2026 19:06:47 +0000</pubDate>
+      <sparkle:version>122</sparkle:version>
+      <sparkle:shortVersionString>5.21.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v5.21.0/Halo-5.21.0.zip"
+                 sparkle:edSignature="8Q9UF1RAKMD2faBENYs/w8UJ6zS3uAUJHwsVv2ups6nk3Z1mu/bHmJIDOy6WJ74kIpVVfewPtiK3UaTbypPfCg=="
+                 length="12514813"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 5.20.0</title>
       <description><![CDATA[
 <h3>Le cache des fournisseurs remarche. Le même contenu partait en textes JSON différents à chaque appel — un dictionnaire Swift ne garde pas l'ordre de ses clés —, et sur une tâche de 20 appels à 130 000 tokens, seuls les 4 000 de la consigne étaient resservis (3 %). Les clés partent triées : tout le début inchangé d'une conversation peut être resservi, moins cher et plus vite. Jev a un disjoncteur : deux échecs de suite de son API alpha, et il n'est plus appelé pendant 30 min — chaque demande y perdait 8 s. La construction avertit si les deux QuotaClaude.swift (Halo, PowerMac) divergent.</h3>
