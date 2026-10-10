@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 7.2.0</title>
+      <description><![CDATA[
+<h3>Halo 7.2 — tout agent est un terminal, et chaque flotte a ses connexions. Dans une flotte, l'agent Halo tourne désormais dans un terminal (<code>halo</code>, dans le dossier de la flotte), comme Claude Code : plus de fenêtre de discussion. Le start (<code>/cobalt-flotte-start</code>), la synthèse (<code>/cobalt-flotte-synthese</code>) et la saisie du Poste lui sont tapés dans son terminal s'il tourne, sinon partent dans un terminal neuf ; un projet ouvert depuis ⌘K s'ouvre dans <code>halo --tui</code>. Un projet ouvert par <code>halo</code> dans un dossier rejoint la flotte de ce dossier. Réglages de la flotte › Connexions : le coffre (les outils fichiers acceptent aussi ses chemins), la mémoire (ta fiche, les notes durables et <code>memoriser</code>, l'archive et <code>souvenir</code> — chacune au choix), les skills (toutes, ou une sélection, avec recherche ; une skill hors sélection est refusée). Claude Code lancé dans la flotte reçoit le coffre par --add-dir et la mémoire et les skills retenues par --append-system-prompt : rien n'est écrit dans le dossier. Garde ajoutée : seule l'app touche aux terminaux — dans <code>halo</code> en terminal, créer le gestionnaire de terminaux les aurait relancés en double. --self-check (connexions comprises), --mcp-check et --agent-check passent.</h3>
+      ]]></description>
+      <pubDate>Sat, 10 Oct 2026 21:28:15 +0000</pubDate>
+      <sparkle:version>132</sparkle:version>
+      <sparkle:shortVersionString>7.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v7.2.0/Halo-7.2.0.zip"
+                 sparkle:edSignature="YPG6gp/BRnaaNgJGTpMJLsBRdUBXIpXS3BSKTcNQdqPfpMLK+3Rd6T2FOr236ryA7jAxJnS67jilRoPiBV6fBQ=="
+                 length="12614900"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 7.1.2</title>
       <description><![CDATA[
 <h3>Les images ne bloquent plus une conversation, et on voit ce qu'on a ouvert. Une image jointe, puis une demande que Jev confiait à un modèle sans vision (DeepSeek V4 Pro, le modèle des tâches difficiles) : « No endpoints found that support image input », et chaque message suivant échouait aussi, l'image restant dans l'historique. Désormais, une conversation qui contient des images part vers un modèle qui les voit — le rapide de Jev s'il les voit, sinon le moins cher du catalogue qui voit les images et sait utiliser les outils —, annoncé une fois dans le fil ; et si un modèle sans vision est quand même imposé, les images lui partent en mention, la conversation n'est plus bloquée. L'écran d'une flotte dit ce qui est ouvert : une bulle sur l'onglet d'une conversation avec l'agent Halo, une invite sur celui d'un terminal, et une ligne sous les onglets (« Conversation avec l'agent Halo · travaille dans ~/… » ou « Terminal · Claude Code · dans ~/… »).</h3>
