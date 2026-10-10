@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 7.0.1</title>
+      <description><![CDATA[
+<h3>Le modèle de l'agent Halo se choisit de nouveau sous les yeux. Rangé dans les réglages de la flotte depuis la 6.1, on ne le trouvait plus : une pastille « Auto · Jev ⌄ » (ou le modèle imposé) revient dans l'en-tête de l'agent, à côté de la supervision — Auto, ou Imposer un modèle… La feuille « Nouveau » le propose aussi quand on lance un agent Halo : Auto, ou un modèle choisi d'avance, imposé dès la création.</h3>
+      ]]></description>
+      <pubDate>Sat, 10 Oct 2026 19:33:16 +0000</pubDate>
+      <sparkle:version>128</sparkle:version>
+      <sparkle:shortVersionString>7.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v7.0.1/Halo-7.0.1.zip"
+                 sparkle:edSignature="YZZW05DkB/HgZ/PY3Dxzksw1XLAZVSI/zbFJuwMfTB3EsCGKhplttVBRjteEqEsB2ruIBr4h1Gxq6aWv7kudCA=="
+                 length="12590280"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 7.0.0</title>
       <description><![CDATA[
 <h3>Halo 7.0 — les flottes. Une flotte est un projet : un nom, un dossier, une couleur, des réglages (table <code>flottes</code>), et ses agents — les discussions avec l'agent Halo (<code>projects.flotte</code>) et les terminaux de son espace, ouverts dans son dossier. Elle existe même vide. « Nouveau » (⌘N, « + Nouvelle », « + Agent ») demande dans quelle flotte — celle qui est ouverte, d'office — ou en crée une avec son nom et son dossier, puis quel agent : Halo, Claude Code, Codex, OpenCode ou un shell. Le Poste les liste toutes, les actives en cartes, les autres repliées : « Au repos » disparaît. Retirer une flotte ferme ses terminaux et efface ses discussions, le dossier reste. La migration est automatique : chaque espace de terminaux devient une flotte, avec ses réglages de la 6.2, et une discussion sans flotte rejoint la seule flotte, ou « Discussions ». La couleur d'accentuation se choisit (Réglages › Apparence : six teintes ou une couleur libre) ; « un agent travaille » reste orange. Nouveau logo « Flotte » — trois agents posés sur un anneau autour d'un noyau —, dans la barre et en icône ; l'icône du Dock prend l'accent, ou l'état si on le veut (bleu : un agent t'attend, orange : il travaille). <code>Halo --icone dossier</code> exporte l'icône depuis le même dessin, et remplace scripts/genere-icone.swift. La mascotte revient, au centre du Poste quand rien n'est produit. Cadrage dans docs/flottes/. --self-check (migration de la table et flottes comprises), --mcp-check et --agent-check passent.</h3>
