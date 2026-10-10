@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 6.2.1</title>
+      <description><![CDATA[
+<h3>Transparence et givre se règlent séparément. Un seul curseur dosait à la fois ce qu'on voit du bureau et à quel point il est flouté : impossible d'avoir beaucoup de bureau très dépoli, ou peu de bureau presque net. Réglages › Apparence a maintenant deux curseurs — Transparence (opaque → transparent : la densité des panneaux et du voile) et Givre (net → dépoli : le rayon du flou sur le fond d'écran, et le grain avec lui). Le givre par défaut garde le rendu de la 6.2.</h3>
+      ]]></description>
+      <pubDate>Sat, 10 Oct 2026 17:39:44 +0000</pubDate>
+      <sparkle:version>126</sparkle:version>
+      <sparkle:shortVersionString>6.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v6.2.1/Halo-6.2.1.zip"
+                 sparkle:edSignature="SYRM0B1Bv3dFYgYeknmbcEnvyBHm4Q9gHP3O2Gp2Mv4UrsjvhPry3iRoKhslIipObFcq+tXEdR02+iS2dgcrBQ=="
+                 length="12880261"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 6.2.0</title>
       <description><![CDATA[
 <h3>Halo 6.2 — gérer ses flottes. Les trois boutons de la fenêtre se cliquent de nouveau : le logo de la barre des espaces était posé dessus. Chaque flotte a son ⋯ (et son clic droit, au Poste, dans le rail, sur son nom dans l'écran Projet) : ouvrir, nouveau terminal, renommer, épingler en tête, réglages, fermer tous ses terminaux — avec confirmation si un agent y travaille —, effacer la conversation, retirer le projet (le dossier reste). Un terminal se ferme d'une croix au survol ; son clic droit le renomme ou le range dans une autre flotte, et il y reste : un terminal appartient au projet de l'espace où on l'a rangé, plus seulement de son dossier. Une feuille de réglages par flotte : nom, couleur (reprise dans le rail et sur la carte), ce que lance « + Agent », épinglée ; pour une conversation, aussi le modèle, le plafond, la supervision et l'accès aux fichiers. Une flotte épinglée reste au Poste et passe devant les autres du même état. Les panneaux d'un projet (aperçu, éditeur) redeviennent des boutons visibles quand il en a. --self-check (deux cas de flottes de plus), --mcp-check et --agent-check passent.</h3>
