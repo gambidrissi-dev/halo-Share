@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 7.1.0</title>
+      <description><![CDATA[
+<h3>Halo 7.1 — le start et la synthèse d'une flotte. Une flotte neuve démarre avec son agent Halo, qui travaille désormais dans le dossier de la flotte, outils fichiers bornés à lui (sauf si ce dossier est ta maison : une conversation simple, alors) : il lance la skill cobalt-flotte-start, pose les questions de cadrage, puis écrit README.md et DECISIONS.md. L'agent choisi à la création, s'il en est un autre, démarre à côté. Ensuite DECISIONS.md se tient tout seul avec cobalt-flotte-synthese : quand un terminal de la flotte se ferme (une seule synthèse si on en ferme plusieurs), quand l'agent Halo reste vingt minutes silencieux après un échange, ou par ⋯ › « Synthétiser les décisions » ; une flotte pas encore démarrée propose « Démarrer : README et décisions ». Les deux skills vivent dans la Skillothèque (projet-cobalt), utilisables aussi par Claude Code et Hermes : la méthode change sans nouvelle version de Halo. --self-check, --mcp-check et --agent-check passent.</h3>
+      ]]></description>
+      <pubDate>Sat, 10 Oct 2026 20:30:40 +0000</pubDate>
+      <sparkle:version>129</sparkle:version>
+      <sparkle:shortVersionString>7.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v7.1.0/Halo-7.1.0.zip"
+                 sparkle:edSignature="z0zgR1KkjiloTqveyehdn5L8cjOXRBJU9QZMGIsOoPV9SO9Tx1zUhe4yWAtVc8xoh8KbCOVNrlQsw4O1Ide2Dg=="
+                 length="12596189"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 7.0.1</title>
       <description><![CDATA[
 <h3>Le modèle de l'agent Halo se choisit de nouveau sous les yeux. Rangé dans les réglages de la flotte depuis la 6.1, on ne le trouvait plus : une pastille « Auto · Jev ⌄ » (ou le modèle imposé) revient dans l'en-tête de l'agent, à côté de la supervision — Auto, ou Imposer un modèle… La feuille « Nouveau » le propose aussi quand on lance un agent Halo : Auto, ou un modèle choisi d'avance, imposé dès la création.</h3>
