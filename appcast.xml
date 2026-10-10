@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 6.2.0</title>
+      <description><![CDATA[
+<h3>Halo 6.2 — gérer ses flottes. Les trois boutons de la fenêtre se cliquent de nouveau : le logo de la barre des espaces était posé dessus. Chaque flotte a son ⋯ (et son clic droit, au Poste, dans le rail, sur son nom dans l'écran Projet) : ouvrir, nouveau terminal, renommer, épingler en tête, réglages, fermer tous ses terminaux — avec confirmation si un agent y travaille —, effacer la conversation, retirer le projet (le dossier reste). Un terminal se ferme d'une croix au survol ; son clic droit le renomme ou le range dans une autre flotte, et il y reste : un terminal appartient au projet de l'espace où on l'a rangé, plus seulement de son dossier. Une feuille de réglages par flotte : nom, couleur (reprise dans le rail et sur la carte), ce que lance « + Agent », épinglée ; pour une conversation, aussi le modèle, le plafond, la supervision et l'accès aux fichiers. Une flotte épinglée reste au Poste et passe devant les autres du même état. Les panneaux d'un projet (aperçu, éditeur) redeviennent des boutons visibles quand il en a. --self-check (deux cas de flottes de plus), --mcp-check et --agent-check passent.</h3>
+      ]]></description>
+      <pubDate>Sat, 10 Oct 2026 14:06:33 +0000</pubDate>
+      <sparkle:version>125</sparkle:version>
+      <sparkle:shortVersionString>6.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v6.2.0/Halo-6.2.0.zip"
+                 sparkle:edSignature="HMXAYUbqakSfLrdxz+YSSy8fuY5AHPesqmbFUru5zoNKEQa1mAhwyGqv1ckt0n51AzNJ9XAAqEFK3igSyxfVDw=="
+                 length="12879082"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 6.1.0</title>
       <description><![CDATA[
 <h3>Halo 6.1 — plus transparent, plus simple. Le bureau se voit vraiment : le flou de macOS ne se dose pas et changeait un fond d'écran noir en gris uni, alors Halo floute lui-même le fond d'écran, au rayon voulu, calé sur la position de la fenêtre — la grille d'un tapis de découpe se lit à travers, adoucie. « Transparence de la fenêtre » (Réglages › Apparence) dose ensemble le flou, le voile et les panneaux, plus transparents par défaut. Les menus tiennent sur trois niveaux au lieu de cinq : la barre du haut ne garde que le logo, les quatre espaces et la cloche (programmé, post-it, navigateur passent par ⌘K ; ⌘0 ramène au Poste de partout) ; l'écran Projet n'a plus qu'une ligne — projet, onglets d'agents, supervision et ⋯, qui range aperçu, éditeur, dossier, périmètre, modèle, contexte, dépense et le reste ; les boutons « ‹ Poste » des pages, en double avec la barre, disparaissent. --self-check, --mcp-check et --agent-check passent.</h3>
