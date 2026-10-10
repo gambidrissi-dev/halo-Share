@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 7.2.2</title>
+      <description><![CDATA[
+<h3>/model, dans le terminal : choisir un modèle en voyant ce qu'il sait faire et ce qu'il coûte. « /model » puis un mot (glm, claude, image, son, gratuit…) ouvre la liste des modèles qui correspondent, chacun avec ses capacités (image · son · vidéo · fichier · outils, ou texte seul · sans outils) et son prix en dollars par million de jetons, le moins cher d'abord ; ↑↓ choisit, Entrée valide. « png », « photo » ou « vision » valent image, « audio » vaut son. « /model » seul donne la fiche du modèle actuel (ce qu'il reçoit, son prix, son contexte, et un avertissement s'il n'a pas d'outils) ; « /models [mots] » liste tout. La barre d'état dit les capacités du modèle en cours. La palette du terminal se choisit désormais aux flèches pour tout (commandes, fichiers, modèles) : Entrée prenait toujours la première ligne.</h3>
+      ]]></description>
+      <pubDate>Sat, 10 Oct 2026 22:03:38 +0000</pubDate>
+      <sparkle:version>134</sparkle:version>
+      <sparkle:shortVersionString>7.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v7.2.2/Halo-7.2.2.zip"
+                 sparkle:edSignature="+ZQtQBdYJUdKSdvuzcd3+K27HzvzdYZFIsLbaQtzzHwEEpa8sVo2NapYtJXlPhfA7v0aALe2T2XTyZ68/6jKDA=="
+                 length="12622683"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 7.2.1</title>
       <description><![CDATA[
 <h3>Le terminal de l'agent Halo montre sa file d'attente. Un message tapé pendant que l'agent travaille partait déjà en file et s'envoyait tout seul à la fin du tour — mais rien ne l'affichait, et on le croyait perdu. Au-dessus de la saisie : « En file (n) — part dès que l'agent a fini », avec les messages en attente ; la saisie vide le dit aussi (« Entrée la met en file »).</h3>
