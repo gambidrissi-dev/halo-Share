@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 6.1.0</title>
+      <description><![CDATA[
+<h3>Halo 6.1 — plus transparent, plus simple. Le bureau se voit vraiment : le flou de macOS ne se dose pas et changeait un fond d'écran noir en gris uni, alors Halo floute lui-même le fond d'écran, au rayon voulu, calé sur la position de la fenêtre — la grille d'un tapis de découpe se lit à travers, adoucie. « Transparence de la fenêtre » (Réglages › Apparence) dose ensemble le flou, le voile et les panneaux, plus transparents par défaut. Les menus tiennent sur trois niveaux au lieu de cinq : la barre du haut ne garde que le logo, les quatre espaces et la cloche (programmé, post-it, navigateur passent par ⌘K ; ⌘0 ramène au Poste de partout) ; l'écran Projet n'a plus qu'une ligne — projet, onglets d'agents, supervision et ⋯, qui range aperçu, éditeur, dossier, périmètre, modèle, contexte, dépense et le reste ; les boutons « ‹ Poste » des pages, en double avec la barre, disparaissent. --self-check, --mcp-check et --agent-check passent.</h3>
+      ]]></description>
+      <pubDate>Sat, 10 Oct 2026 12:32:04 +0000</pubDate>
+      <sparkle:version>124</sparkle:version>
+      <sparkle:shortVersionString>6.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v6.1.0/Halo-6.1.0.zip"
+                 sparkle:edSignature="TNoQW+b8/SHimCqU1qyqChieZdu6yplQcELB91QU7xZcYf5PuXNdTqxvSR+wiP+bxtp6F+wK6+cDuzmUML9uCQ=="
+                 length="12797568"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 6.0.0</title>
       <description><![CDATA[
 <h3>Halo 6.0 — la refonte graphique. La fenêtre devient du verre dépoli à l'acide : le bureau se devine derrière, flouté, sous un voile satiné et un grain fin ; le texte reste sur des modules sombres, lisibles sur n'importe quel fond d'écran, et « Réduire la transparence » rend tout opaque. L'accueil laisse place au Poste de contrôle : une flotte par projet (son agent Halo, ses terminaux rattachés par dossier, ses travaux programmés), la plus urgente d'abord ; au centre ce que la flotte produit ; à droite ce qui t'attend — Autoriser, Toujours, Refuser, sans ouvrir le projet —, son contexte et son budget. La barre du bas devient la barre des espaces en haut : POSTE · COFFRE · MÉMOIRE · RÉGLAGES, Mémoire regroupant Chercher, Dépenses et Santé. Un projet ou un terminal s'ouvre dans l'écran Projet : le rail des flottes à gauche, un onglet par agent, « + Agent ». Une seule palette, la chaude (l'ardoise n'était plus choisie nulle part), avec le texte secondaire et l'or éclaircis pour le verre ; Geist, Geist Mono et Michroma embarquées (OFL). Les états sont les mêmes partout : ? bleu attend ta réponse, ● orange travaille, ◷ planifié, ✓ fini. Cadrage dans docs/ (PRD, TRD, App Flow, UI/UX, inventaire des écrans). --self-check (flottes comprises), --mcp-check et --agent-check passent.</h3>
