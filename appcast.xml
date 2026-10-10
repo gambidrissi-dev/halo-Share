@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 7.1.1</title>
+      <description><![CDATA[
+<h3>L'agent Halo d'une flotte reçoit son dossier, discussions d'avant comprises. Une discussion créée avant la 7.1 restait une conversation sans outils fichiers, qui ne connaissait pas le dossier de sa flotte : lancé dessus, cobalt-flotte-start demandait « c'est quel dossier ? » puis répondait ne pas pouvoir écrire. Une seule règle désormais, tenue à chaque synchronisation : une discussion d'une flotte qui a un vrai dossier y travaille, outils fichiers bornés à lui — y compris quand on change le dossier de la flotte. L'historique est gardé ; l'agent est recréé pour que sa consigne dise le dossier (pas pendant qu'il travaille). Une flotte dont le dossier est la maison propose « Choisir le dossier du projet… » au lieu de démarrer. Vérifié sur une copie de la base réelle.</h3>
+      ]]></description>
+      <pubDate>Sat, 10 Oct 2026 20:49:57 +0000</pubDate>
+      <sparkle:version>130</sparkle:version>
+      <sparkle:shortVersionString>7.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v7.1.1/Halo-7.1.1.zip"
+                 sparkle:edSignature="yuZI8fWW6sg6mcwxRpRrMtnyc3GS8Tz4LKMvdzG5HV+NUqLtM3OaaT6A0WTsbfvcLaBPn1MGsjVSDQqsYxmuCg=="
+                 length="12602662"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 7.1.0</title>
       <description><![CDATA[
 <h3>Halo 7.1 — le start et la synthèse d'une flotte. Une flotte neuve démarre avec son agent Halo, qui travaille désormais dans le dossier de la flotte, outils fichiers bornés à lui (sauf si ce dossier est ta maison : une conversation simple, alors) : il lance la skill cobalt-flotte-start, pose les questions de cadrage, puis écrit README.md et DECISIONS.md. L'agent choisi à la création, s'il en est un autre, démarre à côté. Ensuite DECISIONS.md se tient tout seul avec cobalt-flotte-synthese : quand un terminal de la flotte se ferme (une seule synthèse si on en ferme plusieurs), quand l'agent Halo reste vingt minutes silencieux après un échange, ou par ⋯ › « Synthétiser les décisions » ; une flotte pas encore démarrée propose « Démarrer : README et décisions ». Les deux skills vivent dans la Skillothèque (projet-cobalt), utilisables aussi par Claude Code et Hermes : la méthode change sans nouvelle version de Halo. --self-check, --mcp-check et --agent-check passent.</h3>
