@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 7.1.2</title>
+      <description><![CDATA[
+<h3>Les images ne bloquent plus une conversation, et on voit ce qu'on a ouvert. Une image jointe, puis une demande que Jev confiait à un modèle sans vision (DeepSeek V4 Pro, le modèle des tâches difficiles) : « No endpoints found that support image input », et chaque message suivant échouait aussi, l'image restant dans l'historique. Désormais, une conversation qui contient des images part vers un modèle qui les voit — le rapide de Jev s'il les voit, sinon le moins cher du catalogue qui voit les images et sait utiliser les outils —, annoncé une fois dans le fil ; et si un modèle sans vision est quand même imposé, les images lui partent en mention, la conversation n'est plus bloquée. L'écran d'une flotte dit ce qui est ouvert : une bulle sur l'onglet d'une conversation avec l'agent Halo, une invite sur celui d'un terminal, et une ligne sous les onglets (« Conversation avec l'agent Halo · travaille dans ~/… » ou « Terminal · Claude Code · dans ~/… »).</h3>
+      ]]></description>
+      <pubDate>Sat, 10 Oct 2026 21:12:03 +0000</pubDate>
+      <sparkle:version>131</sparkle:version>
+      <sparkle:shortVersionString>7.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v7.1.2/Halo-7.1.2.zip"
+                 sparkle:edSignature="Cg+I00Sx6+FRvWj5I55x7h+er7JuyzEbDS8aJNyn+eMpAgivFqMq5/zy3/vX4UtGJSQ77Os4uABG05zo5urTAg=="
+                 length="12613213"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 7.1.1</title>
       <description><![CDATA[
 <h3>L'agent Halo d'une flotte reçoit son dossier, discussions d'avant comprises. Une discussion créée avant la 7.1 restait une conversation sans outils fichiers, qui ne connaissait pas le dossier de sa flotte : lancé dessus, cobalt-flotte-start demandait « c'est quel dossier ? » puis répondait ne pas pouvoir écrire. Une seule règle désormais, tenue à chaque synchronisation : une discussion d'une flotte qui a un vrai dossier y travaille, outils fichiers bornés à lui — y compris quand on change le dossier de la flotte. L'historique est gardé ; l'agent est recréé pour que sa consigne dise le dossier (pas pendant qu'il travaille). Une flotte dont le dossier est la maison propose « Choisir le dossier du projet… » au lieu de démarrer. Vérifié sur une copie de la base réelle.</h3>
