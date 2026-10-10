@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 7.2.1</title>
+      <description><![CDATA[
+<h3>Le terminal de l'agent Halo montre sa file d'attente. Un message tapé pendant que l'agent travaille partait déjà en file et s'envoyait tout seul à la fin du tour — mais rien ne l'affichait, et on le croyait perdu. Au-dessus de la saisie : « En file (n) — part dès que l'agent a fini », avec les messages en attente ; la saisie vide le dit aussi (« Entrée la met en file »).</h3>
+      ]]></description>
+      <pubDate>Sat, 10 Oct 2026 21:48:43 +0000</pubDate>
+      <sparkle:version>133</sparkle:version>
+      <sparkle:shortVersionString>7.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v7.2.1/Halo-7.2.1.zip"
+                 sparkle:edSignature="c09zDKeID3gKh6KwaK7O1ChLzIS6OimL1F1sl0x3GUL20Up6JLI26ozS4sM7QjKvoAh3DgXTdpDQi2WwGJanCg=="
+                 length="12612555"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 7.2.0</title>
       <description><![CDATA[
 <h3>Halo 7.2 — tout agent est un terminal, et chaque flotte a ses connexions. Dans une flotte, l'agent Halo tourne désormais dans un terminal (<code>halo</code>, dans le dossier de la flotte), comme Claude Code : plus de fenêtre de discussion. Le start (<code>/cobalt-flotte-start</code>), la synthèse (<code>/cobalt-flotte-synthese</code>) et la saisie du Poste lui sont tapés dans son terminal s'il tourne, sinon partent dans un terminal neuf ; un projet ouvert depuis ⌘K s'ouvre dans <code>halo --tui</code>. Un projet ouvert par <code>halo</code> dans un dossier rejoint la flotte de ce dossier. Réglages de la flotte › Connexions : le coffre (les outils fichiers acceptent aussi ses chemins), la mémoire (ta fiche, les notes durables et <code>memoriser</code>, l'archive et <code>souvenir</code> — chacune au choix), les skills (toutes, ou une sélection, avec recherche ; une skill hors sélection est refusée). Claude Code lancé dans la flotte reçoit le coffre par --add-dir et la mémoire et les skills retenues par --append-system-prompt : rien n'est écrit dans le dossier. Garde ajoutée : seule l'app touche aux terminaux — dans <code>halo</code> en terminal, créer le gestionnaire de terminaux les aurait relancés en double. --self-check (connexions comprises), --mcp-check et --agent-check passent.</h3>
