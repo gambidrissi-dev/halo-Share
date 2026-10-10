@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 7.2.3</title>
+      <description><![CDATA[
+<h3>L'agent voit enfin ce qu'il modélise. Diagnostic sur la base réelle : une demande Blender a fait 370 allers-retours et 22 millions de jetons, l'agent cherchant pourquoi son rendu était gris (sa caméra regardait à côté) — sans jamais rien voir. L'outil <code>look</code> du plugin Blender renvoyait une capture que Halo remplaçait par « (image rendue par le serveur, non affichée) », et <code>lire_fichier</code> sur une image de référence ne rendait que son texte reconnu : un modèle qui voit pourtant les images (GLM 5.3 Flash) modélisait à l'aveugle. Désormais, les images rendues par un outil MCP et les images lues par <code>lire_fichier</code> partent au modèle dans un message à lui, dès que tous les outils du tour ont répondu ; seules les deux dernières séries de captures restent entières dans l'historique, pour ne pas les repayer à chaque aller-retour. Et sur une même demande, l'agent s'arrête tous les 60 allers-retours pour faire le point (« continue » pour reprendre), au lieu de tourner jusqu'à 1000.</h3>
+      ]]></description>
+      <pubDate>Sat, 10 Oct 2026 23:46:08 +0000</pubDate>
+      <sparkle:version>135</sparkle:version>
+      <sparkle:shortVersionString>7.2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v7.2.3/Halo-7.2.3.zip"
+                 sparkle:edSignature="flkYE04Izi8jz9WOQGwbfndsaVPt1PZLfSLDCnC25rdkJ3tVU2X/v/3OBZgeoSLqQGXc0hDreM1F6XukJNKfDA=="
+                 length="12632802"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 7.2.2</title>
       <description><![CDATA[
 <h3>/model, dans le terminal : choisir un modèle en voyant ce qu'il sait faire et ce qu'il coûte. « /model » puis un mot (glm, claude, image, son, gratuit…) ouvre la liste des modèles qui correspondent, chacun avec ses capacités (image · son · vidéo · fichier · outils, ou texte seul · sans outils) et son prix en dollars par million de jetons, le moins cher d'abord ; ↑↓ choisit, Entrée valide. « png », « photo » ou « vision » valent image, « audio » vaut son. « /model » seul donne la fiche du modèle actuel (ce qu'il reçoit, son prix, son contexte, et un avertissement s'il n'a pas d'outils) ; « /models [mots] » liste tout. La barre d'état dit les capacités du modèle en cours. La palette du terminal se choisit désormais aux flèches pour tout (commandes, fichiers, modèles) : Entrée prenait toujours la première ligne.</h3>
