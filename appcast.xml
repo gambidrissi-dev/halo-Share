@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 7.3.0</title>
+      <description><![CDATA[
+<h3>Halo 7.3 — deux modes, Flottes et Chat, et une flotte retirée ne revient plus. Comme Claude Desktop, la barre a deux modes : FLOTTES (⌘0), les projets et leurs agents en terminaux ; CHAT (⌘9), des conversations libres, sans influence — ni mémoire, ni skills, ni coffre, ni fichiers, ni tri de Jev ni escalade —, avec le modèle choisi, ses capacités et son prix sous les yeux ; à gauche la liste des chats (nouveau, renommer, supprimer). Retirer une flotte la laissait revenir : son espace de terminaux, resté vide, en recréait une au rafraîchissement suivant. Désormais l'espace part avec elle, seul un espace qui a des terminaux fait une flotte, et une flotte retirée ne peut pas renaître pendant que ses terminaux se ferment. La flotte « Discussions » disparaît : ses conversations passent au mode Chat, et l'agent Halo d'un dossier sans flotte en reçoit une à son nom.</h3>
+      ]]></description>
+      <pubDate>Sun, 11 Oct 2026 22:46:22 +0000</pubDate>
+      <sparkle:version>136</sparkle:version>
+      <sparkle:shortVersionString>7.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v7.3.0/Halo-7.3.0.zip"
+                 sparkle:edSignature="1GkwzNFapgMAm5QUFxmnLsLvHOwsAiHVK1lh0r0F9VbHHSi1vcUIScD4hNC7hdjI5ybMaJKlIASFvyMyFbIlDA=="
+                 length="12666556"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 7.2.3</title>
       <description><![CDATA[
 <h3>L'agent voit enfin ce qu'il modélise. Diagnostic sur la base réelle : une demande Blender a fait 370 allers-retours et 22 millions de jetons, l'agent cherchant pourquoi son rendu était gris (sa caméra regardait à côté) — sans jamais rien voir. L'outil <code>look</code> du plugin Blender renvoyait une capture que Halo remplaçait par « (image rendue par le serveur, non affichée) », et <code>lire_fichier</code> sur une image de référence ne rendait que son texte reconnu : un modèle qui voit pourtant les images (GLM 5.3 Flash) modélisait à l'aveugle. Désormais, les images rendues par un outil MCP et les images lues par <code>lire_fichier</code> partent au modèle dans un message à lui, dès que tous les outils du tour ont répondu ; seules les deux dernières séries de captures restent entières dans l'historique, pour ne pas les repayer à chaque aller-retour. Et sur une même demande, l'agent s'arrête tous les 60 allers-retours pour faire le point (« continue » pour reprendre), au lieu de tourner jusqu'à 1000.</h3>
