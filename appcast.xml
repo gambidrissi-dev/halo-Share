@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 7.3.1</title>
+      <description><![CDATA[
+<h3>Coffre par défaut : ~/Documents/COLLECTIF_COBALT (reconnu à son 00_INBOX quand Obsidian ne l'a jamais ouvert)</h3>
+      ]]></description>
+      <pubDate>Mon, 12 Oct 2026 19:01:19 +0000</pubDate>
+      <sparkle:version>137</sparkle:version>
+      <sparkle:shortVersionString>7.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v7.3.1/Halo-7.3.1.zip"
+                 sparkle:edSignature="jaEO08m1ZcGHBqU2T3upngZulCljFb+EHZIjiXrgJqkH5nGCyclpLq+JeBktgG5uFoy/40BQAGNj83g+Nn/mBw=="
+                 length="12665406"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 7.3.0</title>
       <description><![CDATA[
 <h3>Halo 7.3 — deux modes, Flottes et Chat, et une flotte retirée ne revient plus. Comme Claude Desktop, la barre a deux modes : FLOTTES (⌘0), les projets et leurs agents en terminaux ; CHAT (⌘9), des conversations libres, sans influence — ni mémoire, ni skills, ni coffre, ni fichiers, ni tri de Jev ni escalade —, avec le modèle choisi, ses capacités et son prix sous les yeux ; à gauche la liste des chats (nouveau, renommer, supprimer). Retirer une flotte la laissait revenir : son espace de terminaux, resté vide, en recréait une au rafraîchissement suivant. Désormais l'espace part avec elle, seul un espace qui a des terminaux fait une flotte, et une flotte retirée ne peut pas renaître pendant que ses terminaux se ferment. La flotte « Discussions » disparaît : ses conversations passent au mode Chat, et l'agent Halo d'un dossier sans flotte en reçoit une à son nom.</h3>
