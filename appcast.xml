@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 7.4.0</title>
+      <description><![CDATA[
+<h3>7.4 : mémo des skills (⌘/, livre dans la barre) ; /vider vide la file du TUI ; menu d'un terminal : Nouvelle conversation (/clear, /new pour codex et opencode) et Vider la file ; skills renommées (demarrer-flotte, synthese-flotte…)</h3>
+      ]]></description>
+      <pubDate>Mon, 12 Oct 2026 19:25:57 +0000</pubDate>
+      <sparkle:version>138</sparkle:version>
+      <sparkle:shortVersionString>7.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v7.4.0/Halo-7.4.0.zip"
+                 sparkle:edSignature="w/jW8pAH2y8mtQxUCEcM6BtTlo2K71MD0Kvee6uGmMXN1tvpSuXzIkq4sFO6mproM9c3063izh5PfvL2b/AaCg=="
+                 length="12684462"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 7.3.1</title>
       <description><![CDATA[
 <h3>Coffre par défaut : ~/Documents/COLLECTIF_COBALT (reconnu à son 00_INBOX quand Obsidian ne l'a jamais ouvert)</h3>
