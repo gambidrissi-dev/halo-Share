@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 7.4.1</title>
+      <description><![CDATA[
+<h3>Les trois boutons de la fenêtre reviennent : avec la barre de titre cachée, la vue SwiftUI se rangeait au-dessus de leur barre et les recouvrait (macOS 27). On remet la barre devant.</h3>
+      ]]></description>
+      <pubDate>Wed, 14 Oct 2026 18:21:48 +0000</pubDate>
+      <sparkle:version>139</sparkle:version>
+      <sparkle:shortVersionString>7.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v7.4.1/Halo-7.4.1.zip"
+                 sparkle:edSignature="yjOO1jQrSjOh3mF94bgsf3F9cEf2NRE3uZXfpNaXd5NZtRss18iz7bw+QgCBdk6lvMnQcsuc0R4SZBDtRBtdCw=="
+                 length="12681429"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 7.4.0</title>
       <description><![CDATA[
 <h3>7.4 : mémo des skills (⌘/, livre dans la barre) ; /vider vide la file du TUI ; menu d'un terminal : Nouvelle conversation (/clear, /new pour codex et opencode) et Vider la file ; skills renommées (demarrer-flotte, synthese-flotte…)</h3>
