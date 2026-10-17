@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 7.4.2</title>
+      <description><![CDATA[
+<h3>Autoriser LM Studio distant (Tailscale) malgré ATS (#1)</h3>
+<p>Co-authored-by: Claude &lt;noreply@anthropic.com&gt;</p>
+      ]]></description>
+      <pubDate>Sat, 17 Oct 2026 00:10:27 +0000</pubDate>
+      <sparkle:version>140</sparkle:version>
+      <sparkle:shortVersionString>7.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v7.4.2/Halo-7.4.2.zip"
+                 sparkle:edSignature="dPjH7xDju6r+SYgoe0v12oei9BgyGbSmJ31hYsZBHIczesbVXe4yAeHTJjuKhrf6FI7Ik62v5MieB/Ln/53sDw=="
+                 length="12681597"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 7.4.1</title>
       <description><![CDATA[
 <h3>Les trois boutons de la fenêtre reviennent : avec la barre de titre cachée, la vue SwiftUI se rangeait au-dessus de leur barre et les recouvrait (macOS 27). On remet la barre devant.</h3>
