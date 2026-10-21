@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 7.6.0</title>
+      <description><![CDATA[
+<h3>Halo 7.6 — l'ordre des flottes, et la mémoire de chaque projet. Les flottes se rangent dans l'ordre que tu choisis, le même dans le rail et au Poste : glisse-en une sur une autre, ou clic droit › Monter / Descendre ; une nouvelle arrive en dernier, et « Garder parmi les actives » remplace l'épingle. Chaque flotte a désormais sa mémoire, relue par tous ses terminaux — l'agent Halo et Claude Code. Ce qui y entre, c'est Jev qui le décide : chaque note que l'agent Halo propose (memoriser), et celles que le modèle rapide tire d'une session Claude Code, Codex ou OpenCode quand tu la fermes (cinq au plus), est rangée dans ce projet, dans la mémoire générale, ou jetée. Réglages de la flotte › Ce projet montre ce que Jev a gardé (à retirer) et ce qu'il a jeté (à repêcher). Sans Jev, rien ne se perd : une note sur toi va dans la mémoire générale, les autres dans le projet. Active quand la flotte garde les notes durables. --self-check vérifie le rangement, le tri et la relecture.</h3>
+      ]]></description>
+      <pubDate>Wed, 21 Oct 2026 22:30:55 +0000</pubDate>
+      <sparkle:version>145</sparkle:version>
+      <sparkle:shortVersionString>7.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v7.6.0/Halo-7.6.0.zip"
+                 sparkle:edSignature="wEMsxmKqVLhhUY2MshQLrJWpUCpabJXGcoxAicuaRYB//KV1CJBhUL8dTcds98WsVUwenxvTtN+td3RO74qXAA=="
+                 length="12648347"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 7.5.1</title>
       <description><![CDATA[
 <h3>La colonne de gauche d'une flotte ne montre plus que ses terminaux. Elle listait encore tous les espaces, une carte par flotte (D, T, P, I…), toutes nommées d'après le dossier : on croyait voir les terminaux de la flotte ouverte. Désormais, une carte par terminal de cette flotte, sous le nom de son onglet (celui qu'on lui a donné, sinon son outil) ; « + Terminal » en tête en ajoute un, et la recherche ne fouille que ces terminaux. Le clic droit garde « Enregistrer la flotte comme signet… ».</h3>
