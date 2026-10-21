@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 7.5.1</title>
+      <description><![CDATA[
+<h3>La colonne de gauche d'une flotte ne montre plus que ses terminaux. Elle listait encore tous les espaces, une carte par flotte (D, T, P, I…), toutes nommées d'après le dossier : on croyait voir les terminaux de la flotte ouverte. Désormais, une carte par terminal de cette flotte, sous le nom de son onglet (celui qu'on lui a donné, sinon son outil) ; « + Terminal » en tête en ajoute un, et la recherche ne fouille que ces terminaux. Le clic droit garde « Enregistrer la flotte comme signet… ».</h3>
+      ]]></description>
+      <pubDate>Wed, 21 Oct 2026 21:50:55 +0000</pubDate>
+      <sparkle:version>144</sparkle:version>
+      <sparkle:shortVersionString>7.5.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v7.5.1/Halo-7.5.1.zip"
+                 sparkle:edSignature="4uMQTb5aFhFJjwLcWNc9si7dF7BinpGPtHKegj7DRS+W5nLovH9NB/5oKvlgJuBjWwYxdo+DA7o5xxqcg9geBA=="
+                 length="12629325"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 7.5.0</title>
       <description><![CDATA[
 <h3>Halo 7.5 — une flotte, c'est un groupe de terminaux. On crée la flotte avec un nom (le dossier, ~/Documents/&lt;nom&gt;, se change si besoin) : elle s'ouvre vide, rien ne se lance tout seul. « + Terminal » demande un nom — celui de son onglet — et quoi lancer (Claude Code, Halo, Shell, ou Codex et OpenCode sous « Autres ») ; Claude Code garde les connexions de la flotte (coffre, mémoire, skills). Un onglet par terminal, un seul visible à la fois : ⌘⇧↩ montre les voisins côte à côte, et le choix est retenu. Rouvrir une flotte ramène à son dernier terminal ouvert. Le mode Chat (⌘9) et la saisie du Poste disparaissent : pour parler à Halo, on ouvre un terminal Halo dans la flotte ; les anciens chats restent en base, masqués, palette ⌘K comprise. « Agent » devient « terminal » partout. « Démarrer : README et décisions » et la synthèse restent dans le menu ⋯ de la flotte. --self-check passe.</h3>
