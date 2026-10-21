@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 7.5.0</title>
+      <description><![CDATA[
+<h3>Halo 7.5 — une flotte, c'est un groupe de terminaux. On crée la flotte avec un nom (le dossier, ~/Documents/&lt;nom&gt;, se change si besoin) : elle s'ouvre vide, rien ne se lance tout seul. « + Terminal » demande un nom — celui de son onglet — et quoi lancer (Claude Code, Halo, Shell, ou Codex et OpenCode sous « Autres ») ; Claude Code garde les connexions de la flotte (coffre, mémoire, skills). Un onglet par terminal, un seul visible à la fois : ⌘⇧↩ montre les voisins côte à côte, et le choix est retenu. Rouvrir une flotte ramène à son dernier terminal ouvert. Le mode Chat (⌘9) et la saisie du Poste disparaissent : pour parler à Halo, on ouvre un terminal Halo dans la flotte ; les anciens chats restent en base, masqués, palette ⌘K comprise. « Agent » devient « terminal » partout. « Démarrer : README et décisions » et la synthèse restent dans le menu ⋯ de la flotte. --self-check passe.</h3>
+      ]]></description>
+      <pubDate>Wed, 21 Oct 2026 21:35:23 +0000</pubDate>
+      <sparkle:version>143</sparkle:version>
+      <sparkle:shortVersionString>7.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v7.5.0/Halo-7.5.0.zip"
+                 sparkle:edSignature="Wi7JrADskWHZgUfmIKxkBWbsxuUgFfBGduJmCn7d89aepz+aMjDMX+vzVCicNFBKBkaAeMxw+3lqcperw7W6Ag=="
+                 length="12637507"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 7.4.4</title>
       <description><![CDATA[
 <h3>« Base illisible » ne reste plus affiché pour rien. L'app et <code>halo</code> en terminal ouvrent la base en même temps, sans délai d'attente : une lecture qui tombait sur l'autre échouait net, et le message restait en bas de la fenêtre jusqu'à quitter Halo, même quand tout relisait bien ensuite. Désormais SQLite attend jusqu'à 2 s qu'elle se libère, et le message s'efface à la lecture suivante réussie.</h3>
