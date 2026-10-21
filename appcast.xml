@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 7.7.0</title>
+      <description><![CDATA[
+<h3>Halo 7.7 — le téléphone passe aux flottes. L'app web que le QR code ouvre (Réglages › Téléphone, via Tailscale) suit enfin la logique du Mac : tes flottes dans ton ordre, puis les terminaux d'une flotte, puis un terminal. En tête de l'accueil, ce qui attend ta réponse, avec ses choix en boutons : on répond sans ouvrir le terminal. On crée une flotte, on ouvre un terminal nommé (Claude Code, Halo ou Shell), on le renomme ou le ferme, depuis le téléphone. L'écran d'un terminal prend toute la hauteur, sa police se règle (A− A+, retenue), on passe d'un terminal de la flotte à l'autre par son nom en haut, et les touches qu'un téléphone n'a pas restent au-dessus de la saisie. La connexion se voit en permanence (Mac · latence) ; si elle tombe, un bandeau dit quoi vérifier (Tailscale des deux côtés, Halo ouvert) et la page réessaie seule. Ajoutée à l'écran d'accueil, elle garde son accès (le jeton reste dans l'adresse) et prend l'icône de Halo. Disparaissent : l'onglet de conversation et le chat ; les dépenses passent dans ses réglages. --self-check vérifie ce que le serveur envoie au téléphone.</h3>
+      ]]></description>
+      <pubDate>Wed, 21 Oct 2026 23:12:17 +0000</pubDate>
+      <sparkle:version>146</sparkle:version>
+      <sparkle:shortVersionString>7.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v7.7.0/Halo-7.7.0.zip"
+                 sparkle:edSignature="D0yVxOukc0HY7K3Rq70t1N4oXCinZALK19tHVaRP/czkZ2Emp4BCNRONsSLAjll4nYXiERITDAYGyE111cvyDQ=="
+                 length="12665890"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 7.6.0</title>
       <description><![CDATA[
 <h3>Halo 7.6 — l'ordre des flottes, et la mémoire de chaque projet. Les flottes se rangent dans l'ordre que tu choisis, le même dans le rail et au Poste : glisse-en une sur une autre, ou clic droit › Monter / Descendre ; une nouvelle arrive en dernier, et « Garder parmi les actives » remplace l'épingle. Chaque flotte a désormais sa mémoire, relue par tous ses terminaux — l'agent Halo et Claude Code. Ce qui y entre, c'est Jev qui le décide : chaque note que l'agent Halo propose (memoriser), et celles que le modèle rapide tire d'une session Claude Code, Codex ou OpenCode quand tu la fermes (cinq au plus), est rangée dans ce projet, dans la mémoire générale, ou jetée. Réglages de la flotte › Ce projet montre ce que Jev a gardé (à retirer) et ce qu'il a jeté (à repêcher). Sans Jev, rien ne se perd : une note sur toi va dans la mémoire générale, les autres dans le projet. Active quand la flotte garde les notes durables. --self-check vérifie le rangement, le tri et la relecture.</h3>
