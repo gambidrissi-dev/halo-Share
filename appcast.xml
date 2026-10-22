@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 8.2.0</title>
+      <description><![CDATA[
+<h3>Halo 8.2 — plus simple : Jev s'en va, et Halo ne crée plus rien tout seul. L'agent Halo répond directement avec le modèle de la conversation (celui des Réglages, ou celui que tu imposes) : plus de tri de chaque demande, plus de choix d'espace ni de modèle à ta place, et Réglages › Tri des demandes devient « Modèles et coffre ». Halo n'écrit plus rien sans que tu le demandes : plus de reçus dans 00_INBOX/JOURNAL_HALO, plus de tâches programmées qui travaillent seules (Taches-Halo.md, page Programmé), plus de synthèse de DECISIONS.md ni de mémoire tirée d'une session quand tu fermes un terminal, plus de dossier créé pour une nouvelle flotte (tu choisis un dossier qui existe), plus de bibliothèque de skills ni de commandes d'exemple posées au premier lancement. « Démarrer : README et décisions » et « Synthétiser les décisions » restent dans le menu de la flotte, à la main. Les fichiers déjà écrits par Halo dans ton coffre ne sont pas touchés.</h3>
+      ]]></description>
+      <pubDate>Thu, 22 Oct 2026 21:27:23 +0000</pubDate>
+      <sparkle:version>149</sparkle:version>
+      <sparkle:shortVersionString>8.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v8.2.0/Halo-8.2.0.zip"
+                 sparkle:edSignature="zQwjAegECo7DBoGuM7v196bvG/ZAW3T4JDr+u8Yxg8R/6816inBuD5eoxEg/j3F+EFacGjcgkDxyjW9bZLSiAw=="
+                 length="12745825"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 8.1.0</title>
       <description><![CDATA[
 <h3>Halo 8.1 — Skillothèque entre dans Halo. Une page Skills rejoint la barre latérale, dans la Bibliothèque : toutes tes skills, rangées par catégorie, avec la recherche et le filtre par outil ; pour chacune, ses interrupteurs (Claude Code, Halo, Hermes, Gemini CLI, Codex CLI) qui la copient là où l'outil la lit, son SKILL.md à lire ou modifier (⌘S enregistre, recopie vers les cibles actives et vérifie), la création et l'import d'une skill, l'activation en lot. L'onglet Plugins y est aussi : un plugin s'active pour Halo, qui relance aussitôt ses serveurs, ou s'installe dans Claude Code. Synchroniser avec GitHub reste dans le menu ⋯. Halo reprend la bibliothèque que tu avais choisie dans Skillothèque ; l'app à part n'est plus nécessaire. --self-check vérifie la lecture des skills, leur activation et les plugins du dépôt.</h3>
