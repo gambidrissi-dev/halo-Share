@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 8.3.1</title>
+      <description><![CDATA[
+<h3>Halo 8.3.1 — le terminal sans la barre du bas. La saisie sous le terminal (Échap, ^C, flèches, Tab, Entrée, champ de dictée et « Envoyer ») disparaît : tu tapes directement dans le terminal, et les questions à choix se répondent toujours depuis le bandeau du haut. Elle rejoint le Labo (Réglages › Avancé) avec la voix : rallumé, elle revient, ⌘J compris.</h3>
+      ]]></description>
+      <pubDate>Thu, 22 Oct 2026 21:49:00 +0000</pubDate>
+      <sparkle:version>151</sparkle:version>
+      <sparkle:shortVersionString>8.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v8.3.1/Halo-8.3.1.zip"
+                 sparkle:edSignature="gch6U4XcAc5S/0alHlTcCGRT0fM7UsEW2afZzL20o7cY2Z2Ys01nBDOGLCzDwQ/W553eQg5MP7PHePaBlxouBQ=="
+                 length="12745858"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 8.3.0</title>
       <description><![CDATA[
 <h3>Halo 8.3 — mieux rangé. Dans la barre latérale, Mémoire et Dépenses deviennent « Suivi », avec ses trois onglets : Mémoire, Dépenses, Santé. Les Réglages passent de quatre groupes à deux : Essentiel (apparence, terminal, clé OpenRouter, modèles et coffre, téléphone, démarrage) et Avancé (le reste). Un nouveau réglage « Labo », dans Avancé et éteint par défaut, range ce qui sert peu : le navigateur intégré, la vue 3D Blender, le mode bureau et la voix disparaissent des menus et des réglages tant qu'il est éteint — rien n'est supprimé, un interrupteur les ramène.</h3>
