@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 8.6.1</title>
+      <description><![CDATA[
+<h3>Halo 8.6.1 — l'adresse https du téléphone marche vraiment. Lancée par Halo, la commande de Tailscale ouvrait son interface au lieu de répondre : tailscale serve ne démarrait pas et le QR code restait en http. Corrigé : le QR code des Réglages › Téléphone pointe sur l'adresse https (ton-mac.ts.net), celle qui permet d'installer Halo sur l'écran d'accueil et d'activer les notifications.</h3>
+      ]]></description>
+      <pubDate>Thu, 22 Oct 2026 22:59:14 +0000</pubDate>
+      <sparkle:version>155</sparkle:version>
+      <sparkle:shortVersionString>8.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v8.6.1/Halo-8.6.1.zip"
+                 sparkle:edSignature="sNxC4rpII7Yfh6KUN0dikxHFs9uOdgLyN+8LLpDRcpM/gHKR1PdEEkE5Qi2C9iTVusnwlhRjmekggoPKYj6dDw=="
+                 length="12718285"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 8.6.0</title>
       <description><![CDATA[
 <h3>Halo 8.6 — des projets, et un accueil. Les flottes s'appellent maintenant des projets, partout : barre latérale, menus, réglages, téléphone et visite guidée. En haut de la barre latérale, un bouton Accueil (⌘0) remplace le titre « Halo » et l'entrée « Vue d'ensemble » : il ouvre la page de ce qui attend ta réponse, de ce qui travaille et du coût du jour. Sur le téléphone, les retours mènent à « Accueil ».</h3>
