@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 8.5.0</title>
+      <description><![CDATA[
+<h3>Halo 8.5 — le téléphone, plus simple et prévenu. La page du téléphone prend l'habillage du Mac (couleurs Cobalt, titres en serif, mode clair ou sombre selon l'iPhone) et se simplifie : en tête ce qui attend ta réponse avec ses choix en boutons, puis tes flottes, leurs terminaux, et dans un terminal une seule ligne pour écrire — les touches Échap, ⌃C, flèches et le zoom disparaissent. Elle est maintenant servie en HTTPS par tailscale serve (à tes seuls appareils) et s'installe sur l'écran d'accueil comme une app. Ses Réglages proposent d'activer les notifications : quand un terminal attend ta réponse ou a fini, l'iPhone te prévient, même verrouillé, et un toucher ouvre le terminal. Les messages sont chiffrés pour ton téléphone seul (push web standard, RFC 8291 et 8292). La création de flotte depuis le téléphone est retirée : une flotte a besoin d'un dossier, qui se choisit sur le Mac.</h3>
+      ]]></description>
+      <pubDate>Thu, 22 Oct 2026 22:29:13 +0000</pubDate>
+      <sparkle:version>153</sparkle:version>
+      <sparkle:shortVersionString>8.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v8.5.0/Halo-8.5.0.zip"
+                 sparkle:edSignature="uT/Ph0AOo43CoBWFRk38zYW1K9P4lxH+7C3cFYZ3f3pIoYpgXRzl+ApXagGoex67/irhIPSBoXyiMcfzbe1NDw=="
+                 length="12718848"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 8.4.0</title>
       <description><![CDATA[
 <h3>Halo 8.4 — une vue d'ensemble utile et des skills d'un seul geste. La vue d'ensemble montre ce qui attend ta réponse, ce qui travaille, la dépense du jour et ta session Claude, toutes flottes confondues : un clic ouvre le terminal. La page Skills se simplifie : tes skills par catégorie, la recherche, et un seul interrupteur par skill, qui la rend disponible à tous tes outils d'un coup (Claude Code, Halo et Hermes par défaut, à choisir dans « Outils ») ; un clic montre la skill, « Modifier » l'ouvre, le réglage par outil reste dans son détail. La bibliothèque se synchronise seule avec GitHub après chaque changement, et un dossier glissé sur la page s'importe. Les compteurs, le filtre, l'activation en lot, le choix de langue et les menus « + » et « ⋯ » disparaissent ; les plugins du dépôt passent dans Réglages › Avancé › Plugins. « Découvrir Halo » est réécrit pour la 8.x. Les menus Éditeur (⌘3), Aperçu (⌘4) et Fermer le panneau (⌘1) sont retirés, les onglets d'une conversation suffisent. Les terminaux ne gardent plus le port du téléphone après la fin de Halo : la relance ne bute plus dessus. L'app iOS HaloRemote, remplacée par la page du téléphone, quitte le dépôt.</h3>
