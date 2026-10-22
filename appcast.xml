@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 8.3.0</title>
+      <description><![CDATA[
+<h3>Halo 8.3 — mieux rangé. Dans la barre latérale, Mémoire et Dépenses deviennent « Suivi », avec ses trois onglets : Mémoire, Dépenses, Santé. Les Réglages passent de quatre groupes à deux : Essentiel (apparence, terminal, clé OpenRouter, modèles et coffre, téléphone, démarrage) et Avancé (le reste). Un nouveau réglage « Labo », dans Avancé et éteint par défaut, range ce qui sert peu : le navigateur intégré, la vue 3D Blender, le mode bureau et la voix disparaissent des menus et des réglages tant qu'il est éteint — rien n'est supprimé, un interrupteur les ramène.</h3>
+      ]]></description>
+      <pubDate>Thu, 22 Oct 2026 21:35:17 +0000</pubDate>
+      <sparkle:version>150</sparkle:version>
+      <sparkle:shortVersionString>8.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v8.3.0/Halo-8.3.0.zip"
+                 sparkle:edSignature="7ORWUScIOFTIF2K2maVo9qcVUmL6swnBPNm28+dg8jfn+YjF3j7x/LR/EMIe3R6l1UK/DENBEM5PPfRm/yd6Dw=="
+                 length="12745479"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 8.2.0</title>
       <description><![CDATA[
 <h3>Halo 8.2 — plus simple : Jev s'en va, et Halo ne crée plus rien tout seul. L'agent Halo répond directement avec le modèle de la conversation (celui des Réglages, ou celui que tu imposes) : plus de tri de chaque demande, plus de choix d'espace ni de modèle à ta place, et Réglages › Tri des demandes devient « Modèles et coffre ». Halo n'écrit plus rien sans que tu le demandes : plus de reçus dans 00_INBOX/JOURNAL_HALO, plus de tâches programmées qui travaillent seules (Taches-Halo.md, page Programmé), plus de synthèse de DECISIONS.md ni de mémoire tirée d'une session quand tu fermes un terminal, plus de dossier créé pour une nouvelle flotte (tu choisis un dossier qui existe), plus de bibliothèque de skills ni de commandes d'exemple posées au premier lancement. « Démarrer : README et décisions » et « Synthétiser les décisions » restent dans le menu de la flotte, à la main. Les fichiers déjà écrits par Halo dans ton coffre ne sont pas touchés.</h3>
