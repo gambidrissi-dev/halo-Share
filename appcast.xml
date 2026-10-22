@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 8.1.0</title>
+      <description><![CDATA[
+<h3>Halo 8.1 — Skillothèque entre dans Halo. Une page Skills rejoint la barre latérale, dans la Bibliothèque : toutes tes skills, rangées par catégorie, avec la recherche et le filtre par outil ; pour chacune, ses interrupteurs (Claude Code, Halo, Hermes, Gemini CLI, Codex CLI) qui la copient là où l'outil la lit, son SKILL.md à lire ou modifier (⌘S enregistre, recopie vers les cibles actives et vérifie), la création et l'import d'une skill, l'activation en lot. L'onglet Plugins y est aussi : un plugin s'active pour Halo, qui relance aussitôt ses serveurs, ou s'installe dans Claude Code. Synchroniser avec GitHub reste dans le menu ⋯. Halo reprend la bibliothèque que tu avais choisie dans Skillothèque ; l'app à part n'est plus nécessaire. --self-check vérifie la lecture des skills, leur activation et les plugins du dépôt.</h3>
+      ]]></description>
+      <pubDate>Thu, 22 Oct 2026 19:30:40 +0000</pubDate>
+      <sparkle:version>148</sparkle:version>
+      <sparkle:shortVersionString>8.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v8.1.0/Halo-8.1.0.zip"
+                 sparkle:edSignature="eDU3IFQ/qLJpCMC8uZAqwg1FFoHypATzVpCqtuGhNq2rFNwTLo8qHCltUDMLIjgDvAZY1Sg/uhcegNcTnjlNAg=="
+                 length="12890873"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 8.0.0</title>
       <description><![CDATA[
 <h3>Halo 8.0 — aux couleurs du Collectif Cobalt. Halo quitte son allure de console pour celle d'une vraie app de bureau, de la même famille que le site collectifcobalt.eu : noir chaud et crème, ou sable en mode clair, avec le choix Auto / Clair / Sombre dans Réglages › Apparence. Le verre dépoli reste, teinté du fond, sans lueur ni arête brillante. Les titres passent en Instrument Serif, le texte en DM Sans ; fini les étiquettes en capitales espacées. Une barre latérale remplace la barre du haut et le rail : tes flottes dans ton ordre (glisser pour ranger, clic droit pour les gérer), avec ce qui t'attend en bleu et ce qui travaille en jaune, puis la bibliothèque (vue d'ensemble, Coffre, Mémoire, Dépenses), les réglages, le mémo des skills et les notifications ; ⌘B la masque. En haut d'une flotte, son nom, ses terminaux en pilules et « Nouveau terminal ». Quand un terminal attend ta réponse, un bandeau au-dessus de lui propose ses choix : un clic répond. Le terminal reste sombre en mode clair. La couleur d'accent se choisit parmi les quatre couleurs Cobalt (bleu par défaut). La recherche dans les terminaux et les signets passent sur ⌥⌘B. --self-check vérifie les contrastes dans les deux apparences.</h3>
