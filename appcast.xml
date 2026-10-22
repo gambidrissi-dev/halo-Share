@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 8.6.0</title>
+      <description><![CDATA[
+<h3>Halo 8.6 — des projets, et un accueil. Les flottes s'appellent maintenant des projets, partout : barre latérale, menus, réglages, téléphone et visite guidée. En haut de la barre latérale, un bouton Accueil (⌘0) remplace le titre « Halo » et l'entrée « Vue d'ensemble » : il ouvre la page de ce qui attend ta réponse, de ce qui travaille et du coût du jour. Sur le téléphone, les retours mènent à « Accueil ».</h3>
+      ]]></description>
+      <pubDate>Thu, 22 Oct 2026 22:41:07 +0000</pubDate>
+      <sparkle:version>154</sparkle:version>
+      <sparkle:shortVersionString>8.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v8.6.0/Halo-8.6.0.zip"
+                 sparkle:edSignature="1Bkzb7lDcbCT7LTwC6IbiTNnQUWtoZHDcuAM7p7SUAi/vFoQFdG78Kd24JyWCQdmMVsVqQfTMBGKBzz4pN48AA=="
+                 length="12718995"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 8.5.0</title>
       <description><![CDATA[
 <h3>Halo 8.5 — le téléphone, plus simple et prévenu. La page du téléphone prend l'habillage du Mac (couleurs Cobalt, titres en serif, mode clair ou sombre selon l'iPhone) et se simplifie : en tête ce qui attend ta réponse avec ses choix en boutons, puis tes flottes, leurs terminaux, et dans un terminal une seule ligne pour écrire — les touches Échap, ⌃C, flèches et le zoom disparaissent. Elle est maintenant servie en HTTPS par tailscale serve (à tes seuls appareils) et s'installe sur l'écran d'accueil comme une app. Ses Réglages proposent d'activer les notifications : quand un terminal attend ta réponse ou a fini, l'iPhone te prévient, même verrouillé, et un toucher ouvre le terminal. Les messages sont chiffrés pour ton téléphone seul (push web standard, RFC 8291 et 8292). La création de flotte depuis le téléphone est retirée : une flotte a besoin d'un dossier, qui se choisit sur le Mac.</h3>
