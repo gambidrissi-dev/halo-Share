@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/halo-Share</link>
     <description>Mises à jour de Halo</description>
     <item>
+      <title>Version 8.6.2</title>
+      <description><![CDATA[
+<h3>Halo 8.6.2 — choisir dans un menu depuis le téléphone. Dans un terminal, trois touches reviennent au-dessus de la saisie : ↑, ↓ et Entrée, pour passer d'une ligne à l'autre dans un menu de Claude Code (« Yes, I trust this folder »…) et valider.</h3>
+      ]]></description>
+      <pubDate>Fri, 23 Oct 2026 17:27:31 +0000</pubDate>
+      <sparkle:version>156</sparkle:version>
+      <sparkle:shortVersionString>8.6.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/halo-Share/releases/download/v8.6.2/Halo-8.6.2.zip"
+                 sparkle:edSignature="6t9d8uXTSrPkJg3bvzrd7i4rHRuT2qkeUPvFuuGYPo0YzxrBescwajr7XPQNaAeZGOKhCSWbkoYhUY6eHC5kCw=="
+                 length="12718503"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 8.6.1</title>
       <description><![CDATA[
 <h3>Halo 8.6.1 — l'adresse https du téléphone marche vraiment. Lancée par Halo, la commande de Tailscale ouvrait son interface au lieu de répondre : tailscale serve ne démarrait pas et le QR code restait en http. Corrigé : le QR code des Réglages › Téléphone pointe sur l'adresse https (ton-mac.ts.net), celle qui permet d'installer Halo sur l'écran d'accueil et d'activer les notifications.</h3>
